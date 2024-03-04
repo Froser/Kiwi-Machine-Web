@@ -1,0 +1,14 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "家庭打砖块（日）",
+      "zh-hint": "jiatingdazhuankuai(ri)",
+      "ja": "ファミリーブロック（日）"
+    },
+    "Thunder & Lightning (USA)" : {
+      "zh": "家庭打砖块（美）",
+      "zh-hint": "jiatingdazhuankuai(mei)",
+      "ja": "ファミリーブロック（米）"
+    }
+  }
+}

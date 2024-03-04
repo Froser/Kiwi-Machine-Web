@@ -1,0 +1,14 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "双截龙（日）",
+      "zh-hint": "shuangjielong1(ri)",
+      "ja": "双截龍（日）",
+      "ja-hint": "そうせつりゅう1（にち）"
+    },
+    "Double Dragon (USA)" : {
+      "zh": "双截龙（美）",
+      "ja": "双截龍（米）"
+    }
+  }
+}

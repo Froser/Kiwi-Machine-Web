@@ -1,0 +1,16 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "七宝奇谋2 - 弗雷泰利最后的挑战（美）",
+      "zh-hint": "qibaoqimou2fuleitailizuihoudetiaozhan(mei)",
+      "ja": "フラッテリー最後の挑戦（米）",
+      "ja-hint": "フラッテリーさいごのちょうせん（べい）"
+    },
+    "Goonies II, The - Fratelli Saigo no Chousen (Japan)" : {
+      "zh": "七宝奇谋2 - 弗雷泰利最后的挑战（日）",
+      "zh-hint": "qibaoqimou2fuleitailizuihoudetiaozhan(ri)",
+      "ja": "フラッテリー最後の挑戦（日）",
+      "ja-hint": "フラッテリーさいごのちょうせん（にち）"
+    }
+  }
+}

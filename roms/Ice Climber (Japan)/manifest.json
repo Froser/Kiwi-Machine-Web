@@ -1,0 +1,13 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "敲冰块（日）",
+      "zh-hint": "qiaobingkuai(ri)",
+      "ja": "アイスクライマー（日）"
+    },
+    "Ice Climber (USA, Europe)" : {
+      "zh": "敲冰块（欧，美）",
+      "ja": "アイスクライマー（欧、米）"
+    }
+  }
+}

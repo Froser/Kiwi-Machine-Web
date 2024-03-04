@@ -1,0 +1,14 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "忍者龙剑传（日）",
+      "zh-hint": "renzhelongjianzhuan(ri)",
+      "ja": "忍者龍剣伝（日）",
+      "ja-hint": "にんじゃりゅうけんでん（にち）"
+    },
+    "Ninja Gaiden (USA)" : {
+      "zh": "忍者龙剑传（美）",
+      "ja": "忍者龍剣伝（米）"
+    }
+  }
+}

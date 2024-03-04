@@ -1,0 +1,18 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "吞食天地（日）",
+      "zh-hint": "tunshitiandi(ri)",
+      "ja": "天地を喰らう（日）",
+      "ja-hint": "てんちをくらう（にち）"
+    },
+    "Tenchi wo Kurau (CN)" : {
+      "zh": "吞食天地（中）",
+      "ja": "天地を喰らう（中）"
+    },
+    "Destiny of an Emperor (USA)" : {
+      "zh": "吞食天地（美）",
+      "ja": "天地を喰らう（米）"
+    }
+  }
+}

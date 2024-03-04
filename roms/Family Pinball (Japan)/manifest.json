@@ -1,0 +1,14 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "家庭弹珠台（日）",
+      "zh-hint": "jiatingdanzhutai(ri)",
+      "ja": "ファミリーピンボール（日）"
+    },
+    "Rock 'n' Ball (USA)" : {
+      "zh": "家庭弹珠台（美）",
+      "zh-hint": "jiatingdanzhutai(mei)",
+      "ja": "ファミリーピンボール（米）"
+    }
+  }
+}

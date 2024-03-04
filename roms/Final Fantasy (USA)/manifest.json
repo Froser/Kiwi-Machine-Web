@@ -1,0 +1,17 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "最终幻想1（美）",
+      "zh-hint": "zuizhonghuanxiang1(mei)",
+      "ja": "ファイナルファンタジー1（米）"
+    },
+    "Final Fantasy (CN)" : {
+      "zh": "最终幻想（中）",
+      "ja": "ファイナルファンタジー（中）"
+    },
+    "Final Fantasy (Japan) (Rev B)" : {
+      "zh": "最终幻想（日）",
+      "ja": "ファイナルファンタジー（日）"
+    }
+  }
+}

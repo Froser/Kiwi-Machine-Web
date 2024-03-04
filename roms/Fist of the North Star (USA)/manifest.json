@@ -1,0 +1,16 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "北斗之拳2 - 世纪末救世主传说（美）",
+      "zh-hint": "beidouzhiquan2shijimojiushizhuchuanshuo(mei)",
+      "ja": "北斗の拳2 - 世紀末救世主伝説（米）",
+      "ja-hint": "ほくとのけん2せいきまつきゅうせいしゅでんせつ（べい）"
+    },
+    "Hokuto no Ken 2 - Seikimatsu Kyuuseishu Densetsu (Japan)" : {
+      "zh": "北斗之拳2 - 世纪末救世主传说（日）",
+      "zh-hint": "beidouzhiquan2shijimojiushizhuchuanshuo(ri)",
+      "ja": "北斗の拳2 - 世紀末救世主伝説（日）",
+      "ja-hint": "ほくとのけん2せいきまつきゅうせいしゅでんせつ（にち）"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "大嘴鸟乐园（日）",
+      "zh-hint": "dazuiniaoleyuan(ri)",
+      "ja": "キョロちゃんランド（日）"
+    },
+    "Castelian (USA)" : {
+      "zh": "大嘴鸟乐园（美）",
+      "ja": "キョロちゃんランド（米）"
+    }
+  }
+}

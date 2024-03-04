@@ -1,0 +1,18 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "热血格斗传说（日）",
+      "zh-hint": "rexuegedouchuanshuo(ri)",
+      "ja": "熱血格闘伝説（日）",
+      "ja-hint": "ねっけつかくとうでんせつ（にち）"
+    },
+    "Nekketsu Kakutou Densetsu (CN)" : {
+      "zh": "热血格斗传说（中）",
+      "ja": "熱血格闘伝説（中）"
+    },
+    "Nekketsu Kakutou Densetsu (Riki Kunio) (J) [T-Eng0.95]" : {
+      "zh": "热血格斗传说（日英）",
+      "ja": "熱血格闘伝説（日英）"
+    }
+  }
+}

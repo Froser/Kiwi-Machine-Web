@@ -1,0 +1,14 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "星之卡比 - 梦之泉物语（日）",
+      "zh-hint": "xingzhikabi - mengzhiquanwuyu(ri)",
+      "ja": "星のカービィ - 夢の泉の物語（日）",
+      "ja-hint": "ほしのカービィ - ゆめのいずみのものがたり（にち）"
+    },
+    "Kirby's Adventure (USA) (Rev A)" : {
+      "zh": "星之卡比 - 梦之泉物语（美）",
+      "ja": "星のカービィ - 夢の泉の物語（米）"
+    }
+  }
+}

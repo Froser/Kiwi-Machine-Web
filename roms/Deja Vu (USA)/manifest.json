@@ -1,0 +1,16 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "似曾相识 - 噩梦成真（美）",
+      "zh-hint": "sicengxiangshiemengchengzhen(mei)",
+      "ja": "ディジャブ - 悪夢は本当にやってきた（米）",
+      "ja-hint": "ディジャブあくむはほんとうにやってきた（べい）"
+    },
+    "Deja Vu (Japan)" : {
+      "zh": "似曾相识 - 噩梦成真（日）",
+      "zh-hint": "sicengxiangshiemengchengzhen(ri)",
+      "ja": "ディジャブ - 悪夢は本当にやってきた（日）",
+      "ja-hint": "ディジャブあくむはほんとうにやってきた（にち）"
+    }
+  }
+}

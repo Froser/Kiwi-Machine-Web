@@ -1,0 +1,18 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "热血物语（日）",
+      "zh-hint": "rexuewuyu(ri)",
+      "ja": "熱血物語（日）",
+      "ja-hint": "ねっけつものがたり（にち）"
+    },
+    "Downtown - Nekketsu Monogatari (CN)" : {
+      "zh": "热血物语（中）",
+      "ja": "熱血物語（中）"
+    },
+    "River City Ransom (USA)" : {
+      "zh": "热血物语（美）",
+      "ja": "熱血物語（米）"
+    }
+  }
+}

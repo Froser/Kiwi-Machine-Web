@@ -1,0 +1,16 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "男孩与泡泡怪（美）",
+      "zh-hint": "nanhaiyupaopaoguai(mei)",
+      "ja": "ふしぎなブロビー ブロバニアの危機（米）",
+      "ja-hint": "ふしぎなブロビー ブロバニアのきき（べい）"
+    },
+    "Fushigi na Blobby - Blobania no Kiki (Japan)" : {
+      "zh": "男孩与泡泡怪（日）",
+      "zh-hint": "nanhaiyupaopaoguai(ri)",
+      "ja": "ふしぎなブロビー ブロバニアの危機（日）",
+      "ja-hint": "ふしぎなブロビー ブロバニアのきき（にち）"
+    }
+  }
+}

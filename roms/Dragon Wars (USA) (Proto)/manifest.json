@@ -1,0 +1,14 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "龙之战（美）",
+      "zh-hint": "longzhizhan(mei)",
+      "ja": "ドラゴンウォーズ（米）"
+    },
+    "Dragon Wars (Japan)" : {
+      "zh": "龙之战（日）",
+      "zh-hint": "longzhizhan(ri)",
+      "ja": "ドラゴンウォーズ（日）"
+    }
+  }
+}

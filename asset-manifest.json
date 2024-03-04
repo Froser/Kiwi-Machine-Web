@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.046f64d6.css",
+    "main.js": "/static/js/main.1ef9b313.js",
+    "static/media/SuperMario256.ttf": "/static/media/SuperMario256.727519250ea444b6c5ce.ttf",
+    "index.html": "/index.html",
+    "main.046f64d6.css.map": "/static/css/main.046f64d6.css.map",
+    "main.1ef9b313.js.map": "/static/js/main.1ef9b313.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.046f64d6.css",
+    "static/js/main.1ef9b313.js"
+  ]
+}

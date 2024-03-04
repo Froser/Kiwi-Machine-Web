@@ -1,0 +1,14 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "钢铁坦克（美）",
+      "zh-hint": "gangtietanke(mei)",
+      "ja": "グレートタンク（米）"
+    },
+    "Great Tank (Japan)" : {
+      "zh": "钢铁坦克（日）",
+      "zh-hint": "gangtietanke(ri)",
+      "ja": "グレートタンク（日）"
+    }
+  }
+}

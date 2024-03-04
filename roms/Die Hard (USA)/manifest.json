@@ -1,0 +1,14 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "虎胆龙威（美）",
+      "zh-hint": "hudanlongwei(mei)",
+      "ja": "ダイ・ハード（米）"
+    },
+    "Die Hard (Japan)" : {
+      "zh": "虎胆龙威（日）",
+      "zh-hint": "hudanlongwei(ri)",
+      "ja": "ダイ・ハード（日）"
+    }
+  }
+}

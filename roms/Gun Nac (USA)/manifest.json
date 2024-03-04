@@ -1,0 +1,14 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "加纳战机（美）",
+      "zh-hint": "jianazhanji(mei)",
+      "ja": "ガンナック（米）"
+    },
+    "Gun Nac (Japan)" : {
+      "zh": "加纳战机（日）",
+      "zh-hint": "jianazhanji(ri)",
+      "ja": "ガンナック（日）"
+    }
+  }
+}

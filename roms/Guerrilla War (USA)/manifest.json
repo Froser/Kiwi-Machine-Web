@@ -1,0 +1,14 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "古巴战士（美）",
+      "zh-hint": "gubazhanshi(mei)",
+      "ja": "ゲバラ（米）"
+    },
+    "Guevara (Japan)" : {
+      "zh": "古巴战士（日）",
+      "zh-hint": "gubazhanshi(ri)",
+      "ja": "ゲバラ（日）"
+    }
+  }
+}

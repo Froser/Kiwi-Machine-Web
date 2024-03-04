@@ -1,0 +1,14 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "塞尔达传说 - 海拉鲁幻想（美）",
+      "zh-hint": "saierdachuanshuo - hailaluhuanxiang(mei)",
+      "ja": "ゼルダの伝説（米）",
+      "ja-hint": "ゼルダのでんせつ（べい）"
+    },
+    "Zelda no Densetsu 1 - The Hyrule Fantasy (Japan)" : {
+      "zh": "塞尔达传说 - 海拉鲁幻想（日）",
+      "ja": "ゼルダの伝説（日）"
+    }
+  }
+}

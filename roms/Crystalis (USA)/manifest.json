@@ -1,0 +1,16 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "天神之剑 - 遥远的天空奏鸣曲（美）",
+      "zh-hint": "tianshenzhijian - yaoyuandetiankongzoumingqu(mei)",
+      "ja": "ゴッド・スレイヤー はるか天空のソナタ（米）",
+      "ja-hint": "ゴッド・スレイヤー はるかてんくうのソナタ（べい）"
+    },
+    "God Slayer - Haruka Tenkuu no Sonata (Japan)" : {
+      "zh": "天神之剑 - 遥远的天空奏鸣曲（日）",
+      "zh-hint": "tianshenzhijian - yaoyuandetiankongzoumingqu(ri)",
+      "ja": "ゴッド・スレイヤー はるか天空のソナタ（日）",
+      "ja-hint": "ゴッド・スレイヤー はるかてんくうのソナタ（にち）"
+    }
+  }
+}

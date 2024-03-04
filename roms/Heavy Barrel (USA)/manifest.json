@@ -1,0 +1,14 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "重炮（美）",
+      "zh-hint": "zhongpao(mei)",
+      "ja": "ヘビーバレル（米）"
+    },
+    "Heavy Barrel (Japan)" : {
+      "zh": "重炮（日）",
+      "zh-hint": "zhongpao(ri)",
+      "ja": "ヘビーバレル（日）"
+    }
+  }
+}

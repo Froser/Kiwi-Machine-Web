@@ -1,0 +1,2210 @@
+[
+ {
+  "zh": "1942（日，美）",
+  "ja": "1942（日、米）",
+  "id": 0,
+  "name": "1942 (Japan, USA)"
+ },
+ {
+  "zh": "1943 中途岛海战（日）",
+  "ja": "1943 ミッドウェイ海戦（日）",
+  "id": 1,
+  "name": "1943 - The Battle of Valhalla (Japan)"
+ },
+ {
+  "zh": "1943 中途岛海战（美）",
+  "ja": "1943 ミッドウェイ海戦（米）",
+  "id": 2,
+  "name": "1943 - The Battle of Midway (USA)",
+  "dir": "1943 - The Battle of Valhalla (Japan)"
+ },
+ {
+  "zh": "4人麻将（日）",
+  "ja": "4人打ち麻雀（日）",
+  "id": 3,
+  "name": "4 Nin Uchi Mahjong (Japan)"
+ },
+ {
+  "zh": "洛洛历险记（日）",
+  "zh-hint": "luoluolixianji(ri)",
+  "ja": "アドベンチャーズ オブ ロロ（日）",
+  "id": 4,
+  "name": "Adventures of Lolo (Japan)"
+ },
+ {
+  "zh": "洛洛历险记（美）",
+  "zh-hint": "luoluolixianji(mei)",
+  "ja": "アドベンチャーズ オブ ロロ（米）",
+  "id": 5,
+  "name": "Adventures of Lolo (USA)"
+ },
+ {
+  "zh": "洛洛历险记2（日）",
+  "zh-hint": "luoluolixianji2(ri)",
+  "ja": "アドベンチャーズ オブ ロロ 2（日）",
+  "id": 6,
+  "name": "Adventures of Lolo 2 (Japan)"
+ },
+ {
+  "zh": "洛洛历险记2（美）",
+  "zh-hint": "luoluolixianji2(mei)",
+  "ja": "アドベンチャーズ オブ ロロ 2（米）",
+  "id": 7,
+  "name": "Adventures of Lolo 2 (USA)"
+ },
+ {
+  "zh": "洛洛历险记3（美）",
+  "zh-hint": "luoluolixianji3(mei)",
+  "ja": "アドベンチャーズ オブ ロロ 3（米）",
+  "id": 8,
+  "name": "Adventures of Lolo 3 (USA)"
+ },
+ {
+  "zh": "Rad Gravity 历险记（美）",
+  "zh-hint": "Rad Gravity lixianji(mei)",
+  "ja": "Adventures of Rad Gravity（米）",
+  "id": 9,
+  "name": "Adventures of Rad Gravity (USA)"
+ },
+ {
+  "zh": "打砖块（美）",
+  "zh-hint": "dazhuankuai(mei)",
+  "ja": "アルカノイド（米）",
+  "id": 10,
+  "name": "Arkanoid (USA)"
+ },
+ {
+  "zh": "杀人番茄（美）",
+  "zh-hint": "sharenfanqie(mei)",
+  "ja": "アタック オブ ザ キラートマト（米）",
+  "id": 11,
+  "name": "Attack of the Killer Tomatoes (USA)"
+ },
+ {
+  "zh": "激斗棒球（美）",
+  "zh-hint": "jidoubangqiu(mei)",
+  "ja": "激闘スタジアム（米）",
+  "ja-hint": "げきとうスタジアム（べい）",
+  "id": 12,
+  "name": "Bad News Baseball (USA)"
+ },
+ {
+  "zh": "气球大战（美）",
+  "zh-hint": "qiqiudazhan(mei)",
+  "ja": "バルーンファイト（米）",
+  "id": 13,
+  "name": "Balloon Fight (USA)"
+ },
+ {
+  "zh": "香蕉王子大冒险（日）",
+  "zh-hint": "xiangjiaowangzidamaoxian(ri)",
+  "ja": "バナナ王子の大冒険（日）",
+  "id": 14,
+  "name": "Bananan Ouji no Daibouken (Japan)"
+ },
+ {
+  "zh": "棒球（日）",
+  "zh-hint": "bangqiu(ri)",
+  "ja": "ベースボール（日）",
+  "id": 15,
+  "name": "Baseball (Japan)"
+ },
+ {
+  "zh": "模拟棒球1000（美）",
+  "zh-hint": "monibangqiu1000(mei)",
+  "ja": "超人ウルトラベースボール（米）",
+  "id": 16,
+  "name": "Baseball Simulator 1.000 (USA)"
+ },
+ {
+  "zh": "超人究极棒球（日）",
+  "ja": "超人ウルトラベースボール（日）",
+  "id": 17,
+  "name": "Choujin - Ultra Baseball (Japan)",
+  "dir": "Baseball Simulator 1.000 (USA)"
+ },
+ {
+  "zh": "棒球之星（美）",
+  "zh-hint": "bangqiuzhixing(mei)",
+  "ja": "ベースボールスターズ（米）",
+  "id": 18,
+  "name": "Baseball Stars (USA)"
+ },
+ {
+  "zh": "棒球之星 目标是三冠王！！（日）",
+  "ja": "ベースボールスターズ めざせ三冠王！！（日）",
+  "id": 19,
+  "name": "Baseball Star - Mezase Sankanou!! (Japan)",
+  "dir": "Baseball Stars (USA)"
+ },
+ {
+  "zh": "棒球之星2（美）",
+  "zh-hint": "bangqiuzhixing2(mei)",
+  "ja": "ベースボールスターズ 2（米）",
+  "id": 20,
+  "name": "Baseball Stars II (USA)"
+ },
+ {
+  "zh": "蝙蝠侠 - 电子游戏（美）",
+  "zh-hint": "bianfuxia - dianziyouxi(mei)",
+  "ja": "レゴ バットマン（米）",
+  "id": 21,
+  "name": "Batman - The Video Game (USA)"
+ },
+ {
+  "zh": "蝙蝠侠归来（美）",
+  "zh-hint": "bianfuxiaguilai(mei)",
+  "ja": "バットマン リターンズ（米）",
+  "id": 22,
+  "name": "Batman Returns (USA)"
+ },
+ {
+  "zh": "坦克大战（日）",
+  "zh-hint": "tankedazhan(ri)",
+  "ja": "バトルシティー（日）",
+  "id": 23,
+  "name": "Battle City (Japan)"
+ },
+ {
+  "zh": "战斗方程式赛车（日）",
+  "zh-hint": "zhandoufangchengshisaiche(ri)",
+  "ja": "バトルフォーミュラ（日）",
+  "id": 24,
+  "name": "Battle Formula (Japan)"
+ },
+ {
+  "zh": "超级战舰（美）",
+  "zh-hint": "chaojizhanjian(mei)",
+  "ja": "バトルシップ（米）",
+  "id": 25,
+  "name": "Battleship (USA)"
+ },
+ {
+  "zh": "忍者蛙（美）",
+  "zh-hint": "renzhewa(mei)",
+  "ja": "バトルトード（米）",
+  "id": 26,
+  "name": "Battletoads (USA)"
+ },
+ {
+  "zh": "忍者蛙和双截龙（美）",
+  "zh-hint": "renzhewaheshuangjielong(mei)",
+  "ja": "バトルトードとダブルドラゴン（米）",
+  "id": 27,
+  "name": "Battletoads And Double Dragon - The Ultimate Team (USA)"
+ },
+ {
+  "zh": "热血新纪录（日）",
+  "zh-hint": "rixuexinjilu(ri)",
+  "ja": "びっくり熱血新記録！はるかなる金メダル（日）",
+  "ja-hint": "びっくりねっけつしんきろく！はるかなるキンメダル（にち）",
+  "id": 28,
+  "name": "Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan)"
+ },
+ {
+  "zh": "热血新纪录（美）",
+  "ja": "びっくり熱血新記録！はるかなる金メダル（米）",
+  "id": 29,
+  "name": "Crash 'n the Boys - Street Challenge (USA)",
+  "dir": "Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan)"
+ },
+ {
+  "zh": "生化尖兵（美）",
+  "zh-hint": "shenghuajianbing(mei)",
+  "ja": "ヒットラーの復活（米）",
+  "ja-hint": "ヒットラーのふっかつ（べい）",
+  "id": 30,
+  "name": "Bionic Commando (USA)"
+ },
+ {
+  "zh": "希魔复活（日）",
+  "zh-hint": "ximofuhuo(ri)",
+  "ja": "ヒットラーの復活（日）",
+  "id": 31,
+  "name": "Hitler no Fukkatsu - Top Secret (Japan)",
+  "dir": "Bionic Commando (USA)"
+ },
+ {
+  "zh": "炸弹之王（日）",
+  "zh-hint": "zhadanzhiwang(ri)",
+  "ja": "ボンバーキング（日）",
+  "id": 32,
+  "name": "Bomber King (Japan)"
+ },
+ {
+  "zh": "炸弹之王（美）",
+  "ja": "ボンバーキング（米）",
+  "id": 33,
+  "name": "Robo Warrior (USA)",
+  "dir": "Bomber King (Japan)"
+ },
+ {
+  "zh": "炸弹人2（日）",
+  "zh-hint": "zhadanzhiwang2(ri)",
+  "ja": "ボンバーマン2（日）",
+  "id": 34,
+  "name": "Bomber Man II (Japan)"
+ },
+ {
+  "zh": "炸弹人（日）",
+  "zh-hint": "zhadanren(ri)",
+  "ja": "ボンバーマン（日）",
+  "ja-hint": "ボンバーマン1（にち）",
+  "id": 35,
+  "name": "Bomberman (Japan)"
+ },
+ {
+  "zh": "新地底探险（日）",
+  "zh-hint": "xindiditanxian(ri)",
+  "ja": "バルダーダッシュ（日）",
+  "id": 36,
+  "name": "Boulder Dash (Japan)"
+ },
+ {
+  "zh": "新地底探险（美）",
+  "ja": "バルダーダッシュ（米）",
+  "id": 37,
+  "name": "Boulder Dash (USA)",
+  "dir": "Boulder Dash (Japan)"
+ },
+ {
+  "zh": "宇宙野兔（美）",
+  "zh-hint": "yuzhouyetu(mei)",
+  "ja": "バッキー・オヘア（米）",
+  "id": 38,
+  "name": "Bucky O'Hare (USA)"
+ },
+ {
+  "zh": "宇宙野兔（日）",
+  "ja": "バッキー・オヘア（日）",
+  "id": 39,
+  "name": "Bucky O'Hare (Japan)",
+  "dir": "Bucky O'Hare (USA)"
+ },
+ {
+  "zh": "卡普空 '92年巴塞罗那奥运会（美）",
+  "zh-hint": "kapukong '92nianbasailuonaaoyunhui(mei)",
+  "ja": "CAPCOMバルセロナ'92（米）",
+  "id": 40,
+  "name": "Capcom's Gold Medal Challenge '92 (USA)"
+ },
+ {
+  "zh": "卡普空 '92年巴塞罗那奥运会（日）",
+  "ja": "CAPCOMバルセロナ'92（日）",
+  "id": 41,
+  "name": "Capcom Barcelona '92 (Japan)",
+  "dir": "Capcom's Gold Medal Challenge '92 (USA)"
+ },
+ {
+  "zh": "赌城小子（美）",
+  "zh-hint": "duchengxiaozi1(mei)",
+  "ja": "カジノキッド（米）",
+  "ja-hint": "カジノキッド1（べい）",
+  "id": 42,
+  "name": "Casino Kid (USA)"
+ },
+ {
+  "zh": "赌城小子2（美）",
+  "zh-hint": "duchengxiaozi2(mei)",
+  "ja": "カジノキッド2（米）",
+  "id": 43,
+  "name": "Casino Kid 2 (USA)"
+ },
+ {
+  "zh": "恶魔城（美）",
+  "zh-hint": "emocheng(mei)",
+  "ja": "悪魔城（米）",
+  "ja-hint": "あくまじょう（べい）",
+  "id": 44,
+  "name": "Castlevania (USA)"
+ },
+ {
+  "zh": "恶魔城2 - 诅咒的封印（美）",
+  "zh-hint": "emocheng2 - zuzhoudefengyin(mei)",
+  "ja": "悪魔城2 - 呪いの封印（米）",
+  "ja-hint": "あくまじょう - のろいのふういん（べい）",
+  "id": 45,
+  "name": "Castlevania II - Simon's Quest (USA)"
+ },
+ {
+  "zh": "功夫猫党忍者猫（日）",
+  "zh-hint": "gongfumaodangrenzhemao(ri)",
+  "ja": "キャッ党忍伝てやんでえ（日）",
+  "ja-hint": "キャッどうにんでんてやんでえ（にち）",
+  "id": 46,
+  "name": "Cat Ninden Teyandee (Japan)"
+ },
+ {
+  "zh": "拯救爱心（日）",
+  "zh-hint": "zhengjiuaixin(ri)",
+  "ja": "ちゃっくんぽっぷ（日）",
+  "id": 47,
+  "name": "Chack'n Pop (Japan)"
+ },
+ {
+  "zh": "冠军淘金者（日）",
+  "zh-hint": "guanjuntaojinzhe(ri)",
+  "ja": "チャンピオンシップロードランナー（日）",
+  "id": 48,
+  "name": "Championship Lode Runner (Japan)"
+ },
+ {
+  "zh": "松鼠大作战（美）",
+  "zh-hint": "songshudazuozhan(mei)",
+  "ja": "チップとデールの大作戦（米）",
+  "ja-hint": "チップとデールのだいさくせん（べい）",
+  "id": 49,
+  "name": "Chip 'n Dale - Rescue Rangers (USA)"
+ },
+ {
+  "zh": "松鼠大作战2（美）",
+  "zh-hint": "songshudazuozhan2(mei)",
+  "ja": "チップとデールの大作戦2（米）",
+  "ja-hint": "チップとデールのだいさくせん（べい）",
+  "id": 50,
+  "name": "Chip 'n Dale - Rescue Rangers 2 (USA)"
+ },
+ {
+  "zh": "地底战空（日）",
+  "zh-hint": "didizhankong(ri)",
+  "ja": "地底戦空バゾルダー（日）",
+  "ja-hint": "ちていせんくうバゾルダー（にち）",
+  "id": 51,
+  "name": "Chitei Senkuu Vazolder (Japan)"
+ },
+ {
+  "zh": "超惑星战记（日）",
+  "zh-hint": "chaohuoxingzhanji(ri)",
+  "ja": "超惑星戦記メタファイト（日）",
+  "ja-hint": "ちょうわくせいせんきメタファイト（にち）",
+  "id": 52,
+  "name": "Chou-Wakusei Senki - MetaFight (Japan)"
+ },
+ {
+  "zh": "超惑星战记（美）",
+  "ja": "超惑星戦記メタファイト（米）",
+  "id": 53,
+  "name": "Blaster Master (USA)",
+  "dir": "Chou-Wakusei Senki - MetaFight (Japan)"
+ },
+ {
+  "zh": "超时空要塞（日）",
+  "zh-hint": "chaoshikongyaosai(ri)",
+  "ja": "超時空要塞マクロス（日）",
+  "ja-hint": "ちょうじくうようさいマクロス（にち）",
+  "id": 54,
+  "name": "Choujikuu Yousai - Macross (Japan)"
+ },
+ {
+  "zh": "超人狼战记（日）",
+  "zh-hint": "chaorenlangzhanji(ri)",
+  "ja": "超人狼戦記（日）",
+  "ja-hint": "ちょうじんおおかみせんき（にち）",
+  "id": 55,
+  "name": "Choujin Ookami Senki - Warwolf (Japan)"
+ },
+ {
+  "zh": "中国雀士故事 - 东风（日）",
+  "zh-hint": "zhongguoqueshigushi - dongfeng(ri)",
+  "ja": "中国雀士ストーリー 東風（日）",
+  "ja-hint": "ちゅうごくじゃんしストーリー　トンプウ（にち）",
+  "id": 56,
+  "name": "Chuugoku Janshi Story - Tonpuu (Japan)"
+ },
+ {
+  "zh": "马戏团遇险（美）",
+  "zh-hint": "maxituanyuxian(mei)",
+  "ja": "サーカス ケイパー（米）",
+  "id": 57,
+  "name": "Circus Caper (USA)"
+ },
+ {
+  "zh": "马戏团（日）",
+  "zh-hint": "maxituan(ri)",
+  "ja": "サーカスチャーリー（日）",
+  "id": 58,
+  "name": "Circus Charlie (Japan)"
+ },
+ {
+  "zh": "转转乐园",
+  "zh-hint": "zhuanzhuanleyuan",
+  "ja": "クルクルランド",
+  "id": 59,
+  "name": "Clu Clu Land (World)"
+ },
+ {
+  "zh": "魔法世界（日）",
+  "zh-hint": "mofashijie(ri)",
+  "ja": "ココロン（日）",
+  "id": 60,
+  "name": "Cocoron (Japan)"
+ },
+ {
+  "zh": "哥伦布 - 黄金的黎明（日）",
+  "zh-hint": "gelunbu - huangjindeliming(ri)",
+  "ja": "コロンブス - 黄金の夜明け（日）",
+  "ja-hint": "コロンブス - おうごんのよあけ（にち）",
+  "id": 61,
+  "name": "Columbus - Ougon no Yoake (Japan)"
+ },
+ {
+  "zh": "魂斗罗（美）",
+  "zh-hint": "hundouluo(mei)",
+  "ja": "魂斗羅（米）",
+  "ja-hint": "コントラ（べい）",
+  "id": 62,
+  "name": "Contra (USA)"
+ },
+ {
+  "zh": "外星特警（日）",
+  "zh-hint": "waixingtejing(ri)",
+  "ja": "コスモポリス ギャリバン（日）",
+  "id": 63,
+  "name": "Cosmo Police Galivan (Japan)"
+ },
+ {
+  "zh": "穿越火线（日）",
+  "zh-hint": "chuanyuehuoxian(ri)",
+  "ja": "クロスファイヤー（日）",
+  "id": 64,
+  "name": "Cross Fire (Japan)"
+ },
+ {
+  "zh": "天神之剑 - 遥远的天空奏鸣曲（美）",
+  "zh-hint": "tianshenzhijian - yaoyuandetiankongzoumingqu(mei)",
+  "ja": "ゴッド・スレイヤー はるか天空のソナタ（米）",
+  "ja-hint": "ゴッド・スレイヤー はるかてんくうのソナタ（べい）",
+  "id": 65,
+  "name": "Crystalis (USA)"
+ },
+ {
+  "zh": "天神之剑 - 遥远的天空奏鸣曲（日）",
+  "zh-hint": "tianshenzhijian - yaoyuandetiankongzoumingqu(ri)",
+  "ja": "ゴッド・スレイヤー はるか天空のソナタ（日）",
+  "ja-hint": "ゴッド・スレイヤー はるかてんくうのソナタ（にち）",
+  "id": 66,
+  "name": "God Slayer - Haruka Tenkuu no Sonata (Japan)",
+  "dir": "Crystalis (USA)"
+ },
+ {
+  "zh": "大力工头阿源君（日）",
+  "zh-hint": "daligongtouayuanjun(ri)",
+  "ja": "大工の源さん（日）",
+  "ja-hint": "だいくのげんさん（にち）",
+  "id": 67,
+  "name": "Daiku no Gen San (Japan)"
+ },
+ {
+  "zh": "丹尼·沙利文的印地之热（美）",
+  "zh-hint": "dannishaliwendeyindizhire(mei)",
+  "ja": "ダニー・サリバンのインディ・ヒート（米）",
+  "id": 68,
+  "name": "Danny Sullivan's Indy Heat (USA)"
+ },
+ {
+  "zh": "变形黑侠（美）",
+  "zh-hint": "bianxingheixia(mei)",
+  "ja": "ダークマン（米）",
+  "id": 69,
+  "name": "Darkman (USA)"
+ },
+ {
+  "zh": "狡猾飞天德（美）",
+  "zh-hint": "jiaohuafeitiande(mei)",
+  "ja": "ダックにおまかせ ダークウィング・ダック（米）",
+  "id": 70,
+  "name": "Darkwing Duck (USA)"
+ },
+ {
+  "zh": "越狱（日）",
+  "zh-hint": "yueyu(ri)",
+  "ja": "脱獄（日）",
+  "ja-hint": "だつごく（にち）",
+  "id": 71,
+  "name": "Datsugoku (Japan)"
+ },
+ {
+  "zh": "男孩与泡泡怪（美）",
+  "zh-hint": "nanhaiyupaopaoguai(mei)",
+  "ja": "ふしぎなブロビー ブロバニアの危機（米）",
+  "ja-hint": "ふしぎなブロビー ブロバニアのきき（べい）",
+  "id": 72,
+  "name": "David Crane's A Boy and His Blob - Trouble on Blobolonia (USA)"
+ },
+ {
+  "zh": "男孩与泡泡怪（日）",
+  "zh-hint": "nanhaiyupaopaoguai(ri)",
+  "ja": "ふしぎなブロビー ブロバニアの危機（日）",
+  "ja-hint": "ふしぎなブロビー ブロバニアのきき（にち）",
+  "id": 73,
+  "name": "Fushigi na Blobby - Blobania no Kiki (Japan)",
+  "dir": "David Crane's A Boy and His Blob - Trouble on Blobolonia (USA)"
+ },
+ {
+  "zh": "人间兵器（日）",
+  "zh-hint": "renjianbingqi(ri)",
+  "ja": "人間兵器デッドフォックス（日）",
+  "ja-hint": "にんげんへいきデッドフォックス（にち）",
+  "id": 74,
+  "name": "Dead Fox (Japan)"
+ },
+ {
+  "zh": "人间兵器（美）",
+  "ja": "人間兵器デッドフォックス（米）",
+  "id": 75,
+  "name": "Code Name Viper (U)",
+  "dir": "Dead Fox (Japan)"
+ },
+ {
+  "zh": "星际俄罗斯方块（日）",
+  "zh-hint": "xingjieluosifangkuai(ri)",
+  "ja": "デ・ブロック（日）",
+  "id": 76,
+  "name": "Deblock (Japan)"
+ },
+ {
+  "zh": "星际之门（美）",
+  "zh-hint": "xingjizhimen(mei)",
+  "ja": "ディフェンダー2（米）",
+  "id": 77,
+  "name": "Defender II (USA)"
+ },
+ {
+  "zh": "似曾相识 - 噩梦成真（美）",
+  "zh-hint": "sicengxiangshiemengchengzhen(mei)",
+  "ja": "ディジャブ - 悪夢は本当にやってきた（米）",
+  "ja-hint": "ディジャブあくむはほんとうにやってきた（べい）",
+  "id": 78,
+  "name": "Deja Vu (USA)"
+ },
+ {
+  "zh": "似曾相识 - 噩梦成真（日）",
+  "zh-hint": "sicengxiangshiemengchengzhen(ri)",
+  "ja": "ディジャブ - 悪夢は本当にやってきた（日）",
+  "ja-hint": "ディジャブあくむはほんとうにやってきた（にち）",
+  "id": 79,
+  "name": "Deja Vu (Japan)",
+  "dir": "Deja Vu (USA)"
+ },
+ {
+  "zh": "恶魔世界（日）",
+  "zh-hint": "emoshijie(ri)",
+  "ja": "デビルワールド（日）",
+  "id": 80,
+  "name": "Devil World (Japan)"
+ },
+ {
+  "zh": "至尊神探（美）",
+  "zh-hint": "zhizunshentan(mei)",
+  "ja": "ディック・トレイシー（米）",
+  "id": 81,
+  "name": "Dick Tracy (USA)"
+ },
+ {
+  "zh": "虎胆龙威（美）",
+  "zh-hint": "hudanlongwei(mei)",
+  "ja": "ダイ・ハード（米）",
+  "id": 82,
+  "name": "Die Hard (USA)"
+ },
+ {
+  "zh": "虎胆龙威（日）",
+  "zh-hint": "hudanlongwei(ri)",
+  "ja": "ダイ・ハード（日）",
+  "id": 83,
+  "name": "Die Hard (Japan)",
+  "dir": "Die Hard (USA)"
+ },
+ {
+  "zh": "打空气（日）",
+  "zh-hint": "dakongqi(ri)",
+  "ja": "ディグダグ（日）",
+  "id": 84,
+  "name": "Dig Dug (Japan)"
+ },
+ {
+  "zh": "打空气2（日）",
+  "zh-hint": "dakongqi2(ri)",
+  "ja": "ディグダグ2（日）",
+  "id": 85,
+  "name": "Dig Dug II (Japan)"
+ },
+ {
+  "zh": "矿工 - 失落之城的传奇（美）",
+  "zh-hint": "kuanggong - shiluozhichengdechuanqi(mei)",
+  "ja": "ディガー ティ ロック（米）",
+  "id": 86,
+  "name": "Digger - The Legend of the Lost City (USA)"
+ },
+ {
+  "zh": "麦当劳世界（日）",
+  "zh-hint": "maidanglaoshijie(ri)",
+  "ja": "ドナルドランド（日）",
+  "id": 87,
+  "name": "Donald Land (Japan)"
+ },
+ {
+  "zh": "大金刚（GameCube）",
+  "zh-hint": "dajingang(GameCube)",
+  "ja": "ドンキーコング（ゲームキューブ）",
+  "id": 88,
+  "name": "Donkey Kong (USA) (GameCube Edition)"
+ },
+ {
+  "zh": "大金刚3",
+  "zh-hint": "dajingang3",
+  "ja": "バトルトードとダブルドラゴン（米）",
+  "id": 89,
+  "name": "Donkey Kong 3 (World)"
+ },
+ {
+  "zh": "大金刚Jr.（GameCube）",
+  "zh-hint": "dajingangjr(GameCube)",
+  "ja": "ドンキーコングJR.（GameCube）",
+  "id": 90,
+  "name": "Donkey Kong Jr. (World) (Rev A)"
+ },
+ {
+  "zh": "哆啦A梦 - 僵尸的逆袭（美）",
+  "zh-hint": "duolaamengjiangshidenixi(mei)",
+  "ja": "ドラえもん ギガゾンビの逆襲（米）",
+  "ja-hint": "ドラえもんギガゾンビのぎゃくしゅう（べい）",
+  "id": 91,
+  "name": "Doraemon - Giga Zombie no Gyakushuu (Japan)"
+ },
+ {
+  "zh": "双截龙（日）",
+  "zh-hint": "shuangjielong1(ri)",
+  "ja": "双截龍（日）",
+  "ja-hint": "そうせつりゅう1（にち）",
+  "id": 92,
+  "name": "Double Dragon - Sou Setsu Ryuu (Japan)"
+ },
+ {
+  "zh": "双截龙（美）",
+  "ja": "双截龍（米）",
+  "id": 93,
+  "name": "Double Dragon (USA)",
+  "dir": "Double Dragon - Sou Setsu Ryuu (Japan)"
+ },
+ {
+  "zh": "双截龙2（日）",
+  "zh-hint": "shuangjielong2(ri)",
+  "ja": "双截龍2（日）",
+  "ja-hint": "そうせつりゅう2（にち）",
+  "id": 94,
+  "name": "Double Dragon II - The Revenge (Japan)"
+ },
+ {
+  "zh": "双截龙2（美）",
+  "ja": "双截龍2（米）",
+  "id": 95,
+  "name": "Double Dragon II - The Revenge (USA)",
+  "dir": "Double Dragon II - The Revenge (Japan)"
+ },
+ {
+  "zh": "双截龙3（日）",
+  "zh-hint": "shuangjielong3(ri)",
+  "ja": "双截龍3（日）",
+  "ja-hint": "そうせつりゅう3（にち）",
+  "id": 96,
+  "name": "Double Dragon III - The Rosetta Stone (Japan)"
+ },
+ {
+  "zh": "双截龙3（美）",
+  "ja": "双截龍3（米）",
+  "id": 97,
+  "name": "Double Dragon III - The Sacred Stones (USA)",
+  "dir": "Double Dragon III - The Rosetta Stone (Japan)"
+ },
+ {
+  "zh": "双月传说（日）",
+  "zh-hint": "shuangyuechuanshuo(ri)",
+  "ja": "ダブルムーン伝説（日）",
+  "ja-hint": "ダブルムーンでんせつ（にち）",
+  "id": 98,
+  "name": "Double Moon Densetsu (Japan)"
+ },
+ {
+  "zh": "热血物语（日）",
+  "zh-hint": "rexuewuyu(ri)",
+  "ja": "熱血物語（日）",
+  "ja-hint": "ねっけつものがたり（にち）",
+  "id": 99,
+  "name": "Downtown - Nekketsu Monogatari (Japan)"
+ },
+ {
+  "zh": "热血物语（中）",
+  "ja": "熱血物語（中）",
+  "id": 100,
+  "name": "Downtown - Nekketsu Monogatari (CN)",
+  "dir": "Downtown - Nekketsu Monogatari (Japan)"
+ },
+ {
+  "zh": "热血物语（美）",
+  "ja": "熱血物語（米）",
+  "id": 101,
+  "name": "River City Ransom (USA)",
+  "dir": "Downtown - Nekketsu Monogatari (Japan)"
+ },
+ {
+  "zh": "混沌先生 - 地狱之门（美）",
+  "zh-hint": "hundunxianshengdiyuzhimen(mei)",
+  "ja": "ドクター·カオス - 地獄の扉（米）",
+  "ja-hint": "ドクターカオスじごくのとびら（べい）",
+  "id": 102,
+  "name": "Dr. Chaos (USA)"
+ },
+ {
+  "zh": "玛丽医生（美）",
+  "zh-hint": "maliyisheng(mei)",
+  "ja": "ドクターマリオ（米）",
+  "id": 103,
+  "name": "Dr. Mario (Japan, USA)"
+ },
+ {
+  "zh": "勇者斗恶龙（日）",
+  "zh-hint": "yongzhedouelong(ri)",
+  "ja": "ドラゴンクエスト（日）",
+  "id": 104,
+  "name": "Dragon Quest (Japan)"
+ },
+ {
+  "zh": "勇者斗恶龙（美）",
+  "zh-hint": "yongzhedouelong(mei)",
+  "ja": "ドラゴンクエスト（米）",
+  "id": 105,
+  "name": "Dragon Warrior (USA) (Rev A)",
+  "dir": "Dragon Quest (Japan)"
+ },
+ {
+  "zh": "勇者斗恶龙2 - 恶灵之神（日）",
+  "zh-hint": "yongzhedouelong2 - elingzhishen(ri)",
+  "ja": "ドラゴンクエスト2 - 悪霊の神々（日）",
+  "ja-hint": "ドラゴンクエスト2 - あくりょうのかみがみ（にち）",
+  "id": 106,
+  "name": "Dragon Quest II - Akuryou no Kamigami (Japan)"
+ },
+ {
+  "zh": "勇者斗恶龙2 - 恶灵之神（中）",
+  "ja": "ドラゴンクエスト2 - 悪霊の神々（中）",
+  "id": 107,
+  "name": "Dragon Quest II (CN)",
+  "dir": "Dragon Quest II - Akuryou no Kamigami (Japan)"
+ },
+ {
+  "zh": "勇者斗恶龙2 - 恶灵之神（美）",
+  "ja": "ドラゴンクエスト2 - 悪霊の神々（米）",
+  "id": 108,
+  "name": "Dragon Warrior 2 (U)",
+  "dir": "Dragon Quest II - Akuryou no Kamigami (Japan)"
+ },
+ {
+  "zh": "勇者斗恶龙3 - 走向传说（日）",
+  "zh-hint": "yongzhedouelong3 - zouxiangchuanshuo(ri)",
+  "ja": "ドラゴンクエスト3 そして伝説へ（日）",
+  "ja-hint": "ドラゴンクエスト3 そしてでんせつへ（にち）",
+  "id": 109,
+  "name": "Dragon Quest III - Soshite Densetsu e... (Japan) (Rev B)"
+ },
+ {
+  "zh": "勇者斗恶龙3 - 走向传说（中）",
+  "ja": "ドラゴンクエスト3 そして伝説へ（中）",
+  "id": 110,
+  "name": "Dragon Quest III - Soshite Densetsu e... (CN)",
+  "dir": "Dragon Quest III - Soshite Densetsu e... (Japan) (Rev B)"
+ },
+ {
+  "zh": "龙之战（美）",
+  "zh-hint": "longzhizhan(mei)",
+  "ja": "ドラゴンウォーズ（米）",
+  "id": 111,
+  "name": "Dragon Wars (USA) (Proto)"
+ },
+ {
+  "zh": "龙之战（日）",
+  "zh-hint": "longzhizhan(ri)",
+  "ja": "ドラゴンウォーズ（日）",
+  "id": 112,
+  "name": "Dragon Wars (Japan)",
+  "dir": "Dragon Wars (USA) (Proto)"
+ },
+ {
+  "zh": "龙穴历险记（美）",
+  "zh-hint": "longxuelixianji(mei)",
+  "ja": "ドラゴンズレア（米）",
+  "id": 113,
+  "name": "Dragon's Lair (USA)"
+ },
+ {
+  "zh": "唐老鸭俱乐部（美）",
+  "zh-hint": "tanglaoyajulebu(mei)",
+  "ja": "わんぱくダック夢冒険（米）",
+  "ja-hint": "わんぱくダックゆめぼうけん（べい）",
+  "id": 114,
+  "name": "DuckTales (USA)"
+ },
+ {
+  "zh": "唐老鸭俱乐部2（美）",
+  "zh-hint": "tanglaoyajulebu2(mei)",
+  "ja": "わんぱくダック夢冒険2（米）",
+  "ja-hint": "わんぱくダックゆめぼうけん（べい）",
+  "id": 115,
+  "name": "DuckTales 2 (USA)"
+ },
+ {
+  "zh": "埃及（日）",
+  "zh-hint": "aiji(ri)",
+  "ja": "エジプ（日）",
+  "id": 116,
+  "name": "Egypt (Japan)"
+ },
+ {
+  "zh": "赛艇决战（美）",
+  "zh-hint": "saitingjuezhan(mei)",
+  "ja": "エリミネイター ボート デュエル（米）",
+  "id": 117,
+  "name": "Eliminator Boat Duel (USA)"
+ },
+ {
+  "zh": "越野机车（日，美）",
+  "zh-hint": "yueyejiche(ri,mei)",
+  "ja": "エキサイトバイク（日，米）",
+  "id": 118,
+  "name": "Excitebike (Japan, USA)"
+ },
+ {
+  "zh": "火凤凰（日）",
+  "zh-hint": "huofenghuang(ri)",
+  "ja": "エクセリオン（日）",
+  "id": 119,
+  "name": "Exerion (Japan)"
+ },
+ {
+  "zh": "新F1赛车（日）",
+  "zh-hint": "xinf1saiche(ri)",
+  "ja": "エフワン センセーション（日）",
+  "id": 120,
+  "name": "F-1 Sensation (Japan)"
+ },
+ {
+  "zh": "F1巡回赛（日）",
+  "zh-hint": "f1xunhuisai(ri)",
+  "ja": "エフワン サーカス（日）",
+  "id": 121,
+  "name": "F1 Circus (Japan)"
+ },
+ {
+  "zh": "FC原人（日）",
+  "zh-hint": "fcyuanren(ri)",
+  "ja": "FC原人（日）",
+  "ja-hint": "FCげんじん（にち）",
+  "id": 122,
+  "name": "FC Genjin - Freakthoropus Computerus (Japan)"
+ },
+ {
+  "zh": "家庭打砖块（日）",
+  "zh-hint": "jiatingdazhuankuai(ri)",
+  "ja": "ファミリーブロック（日）",
+  "id": 123,
+  "name": "Family Block (Japan)"
+ },
+ {
+  "zh": "家庭打砖块（美）",
+  "zh-hint": "jiatingdazhuankuai(mei)",
+  "ja": "ファミリーブロック（米）",
+  "id": 124,
+  "name": "Thunder & Lightning (USA)",
+  "dir": "Family Block (Japan)"
+ },
+ {
+  "zh": "家庭弹珠台（日）",
+  "zh-hint": "jiatingdanzhutai(ri)",
+  "ja": "ファミリーピンボール（日）",
+  "id": 125,
+  "name": "Family Pinball (Japan)"
+ },
+ {
+  "zh": "家庭弹珠台（美）",
+  "zh-hint": "jiatingdanzhutai(mei)",
+  "ja": "ファミリーピンボール（米）",
+  "id": 126,
+  "name": "Rock 'n' Ball (USA)",
+  "dir": "Family Pinball (Japan)"
+ },
+ {
+  "zh": "沙那多（美）",
+  "zh-hint": "shanaduo(mei)",
+  "ja": "バトルトードとダブルドラゴン（米）",
+  "id": 127,
+  "name": "Faxanadu (USA)"
+ },
+ {
+  "zh": "菲力猫（美）",
+  "zh-hint": "feilimao(mei)",
+  "ja": "フィリックス・ザ・キャット（米）",
+  "id": 128,
+  "name": "Felix the Cat (USA)"
+ },
+ {
+  "zh": "爱登斯家族（美）",
+  "zh-hint": "aidengsijiazu(mei)",
+  "ja": "フェスターズ・クエスト（米）",
+  "id": 129,
+  "name": "Fester's Quest (USA)"
+ },
+ {
+  "zh": "杀戮战场（日）",
+  "zh-hint": "shaluzhanchang(ri)",
+  "ja": "フィールドコンバット（日）",
+  "id": 130,
+  "name": "Field Combat (Japan)"
+ },
+ {
+  "zh": "最终幻想1（美）",
+  "zh-hint": "zuizhonghuanxiang1(mei)",
+  "ja": "ファイナルファンタジー1（米）",
+  "id": 131,
+  "name": "Final Fantasy (USA)"
+ },
+ {
+  "zh": "最终幻想（中）",
+  "ja": "ファイナルファンタジー（中）",
+  "id": 132,
+  "name": "Final Fantasy (CN)",
+  "dir": "Final Fantasy (USA)"
+ },
+ {
+  "zh": "最终幻想（日）",
+  "ja": "ファイナルファンタジー（日）",
+  "id": 133,
+  "name": "Final Fantasy (Japan) (Rev B)",
+  "dir": "Final Fantasy (USA)"
+ },
+ {
+  "zh": "最终幻想2（美）",
+  "zh-hint": "zuizhonghuanxiang2(mei)",
+  "ja": "ファイナルファンタジー2（米）",
+  "id": 134,
+  "name": "Final Fantasy II (USA) (Proto)"
+ },
+ {
+  "zh": "最终幻想2（日）",
+  "ja": "ファイナルファンタジー2（日）",
+  "id": 135,
+  "name": "Final Fantasy II (Japan)",
+  "dir": "Final Fantasy II (USA) (Proto)"
+ },
+ {
+  "zh": "最终幻想3（日）",
+  "zh-hint": "zuizhonghuanxiang3(ri)",
+  "ja": "ファイナルファンタジー3（日）",
+  "id": 136,
+  "name": "Final Fantasy III (Japan)"
+ },
+ {
+  "zh": "最终幻想3（中）",
+  "ja": "ファイナルファンタジー3（中）",
+  "id": 137,
+  "name": "Final Fantasy III (CN)",
+  "dir": "Final Fantasy III (Japan)"
+ },
+ {
+  "zh": "最终任务（日）",
+  "zh-hint": "zuizhongrenwu(ri)",
+  "ja": "ファイナルミッション（にち）",
+  "id": 138,
+  "name": "Final Mission (Japan)"
+ },
+ {
+  "zh": "所罗门之匙2（美）",
+  "zh-hint": "suoluomenzhishi2(mei)",
+  "ja": "ソロモンの鍵（米）",
+  "ja-hint": "ソロモンのかぎ（べい）",
+  "id": 139,
+  "name": "Fire 'n Ice (USA)"
+ },
+ {
+  "zh": "北斗之拳2 - 世纪末救世主传说（美）",
+  "zh-hint": "beidouzhiquan2shijimojiushizhuchuanshuo(mei)",
+  "ja": "北斗の拳2 - 世紀末救世主伝説（米）",
+  "ja-hint": "ほくとのけん2せいきまつきゅうせいしゅでんせつ（べい）",
+  "id": 140,
+  "name": "Fist of the North Star (USA)"
+ },
+ {
+  "zh": "北斗之拳2 - 世纪末救世主传说（日）",
+  "zh-hint": "beidouzhiquan2shijimojiushizhuchuanshuo(ri)",
+  "ja": "北斗の拳2 - 世紀末救世主伝説（日）",
+  "ja-hint": "ほくとのけん2せいきまつきゅうせいしゅでんせつ（にち）",
+  "id": 141,
+  "name": "Hokuto no Ken 2 - Seikimatsu Kyuuseishu Densetsu (Japan)",
+  "dir": "Fist of the North Star (USA)"
+ },
+ {
+  "zh": "顽皮精灵（日）",
+  "zh-hint": "wanpijinglin(ri)",
+  "ja": "フラッピー（日）",
+  "id": 142,
+  "name": "Flappy (Japan)"
+ },
+ {
+  "zh": "摩登原始人（美）",
+  "zh-hint": "modengyuanshiren(mei)",
+  "ja": "フリントストーン（米）",
+  "id": 143,
+  "name": "Flintstones, The - The Rescue of Dino & Hoppy (USA)"
+ },
+ {
+  "zh": "摩登原始人2（美）",
+  "zh-hint": "modengyuanshiren2",
+  "ja": "フリントストーン2（米）",
+  "id": 144,
+  "name": "Flintstones, The - The Surprise at Dinosaur Peak! (USA)"
+ },
+ {
+  "zh": "趣味方块（日英）",
+  "zh-hint": "quweifangkuai(riying)",
+  "ja": "フリップル（日英）",
+  "id": 145,
+  "name": "Flipull - An Exciting Cube Game (Japan) (En)"
+ },
+ {
+  "zh": "救火英雄（日）",
+  "zh-hint": "jiuhuoyingxiong(ri)",
+  "ja": "飛ingヒーロー（日）",
+  "ja-hint": "ふらイングヒーロー（にち）",
+  "id": 146,
+  "name": "Flying Hero (Japan)"
+ },
+ {
+  "zh": "变形战机（日）",
+  "zh-hint": "bianxingzhanji(ri)",
+  "ja": "フォーメーションZ（日）",
+  "id": 147,
+  "name": "Formation Z (Japan)"
+ },
+ {
+  "zh": "弗兰肯斯坦 - 怪兽归来（美）",
+  "zh-hint": "fulankensitan - guaishouguilai(mei)",
+  "ja": "フランケンシュタイン（米）",
+  "id": 148,
+  "name": "Frankenstein - The Monster Returns (USA)"
+ },
+ {
+  "zh": "十三号星期五（美）",
+  "zh-hint": "shisanhaoxingqiwu(mei)",
+  "ja": "13日の金曜日（米）",
+  "ja-hint": "じゅうさんにちのきんようび（べい）",
+  "id": 149,
+  "name": "Friday the 13th (USA)"
+ },
+ {
+  "zh": "欢乐屋（美）",
+  "zh-hint": "huanlewu(mei)",
+  "ja": "ファン ハウス（米）",
+  "id": 150,
+  "name": "Fun House (USA)"
+ },
+ {
+  "zh": "奇幻勇士（日）",
+  "zh-hint": "qihuanyongshi(ri)",
+  "ja": "ファジカルファイター（日）",
+  "id": 151,
+  "name": "Fuzzical Fighter (Japan)"
+ },
+ {
+  "zh": "特种部队 - 真正的美国英雄（美）",
+  "zh-hint": "tezhongbuduizhenzhengdemeiguoyingxiong(mei)",
+  "ja": "GIジョー：ア・リアル・アメリカン・ヒーロー（米）",
+  "id": 152,
+  "name": "G.I. Joe - A Real American Hero (USA)"
+ },
+ {
+  "zh": "特种部队2：亚特兰蒂斯因子（美）",
+  "zh-hint": "tezhongbudui2:yatelandisiyinzi(mei)",
+  "ja": "GIジョー：ジ・アトランティス・ファクター（米）",
+  "id": 153,
+  "name": "G.I. Joe - The Atlantis Factor (USA)"
+ },
+ {
+  "zh": "大蜜蜂（日）",
+  "zh-hint": "damifeng(ri)",
+  "ja": "ギャラガ（日）",
+  "id": 154,
+  "name": "Galaga (Japan)"
+ },
+ {
+  "zh": "大蜜蜂（美）",
+  "ja": "ギャラガ（米）",
+  "id": 155,
+  "name": "Galaga - Demons of Death (USA)",
+  "dir": "Galaga (Japan)"
+ },
+ {
+  "zh": "头脑战舰（日）",
+  "zh-hint": "tounaozhanjian(ri)",
+  "ja": "頭脳戦艦ガル（日）",
+  "ja-hint": "ずのうせんかんガル（にち）",
+  "id": 156,
+  "name": "Galg (Japan)"
+ },
+ {
+  "zh": "游戏派对（日）",
+  "zh-hint": "youxipaidui(ri)",
+  "ja": "ゲームパーティー（日）",
+  "id": 157,
+  "name": "Game Party (Japan)"
+ },
+ {
+  "zh": "魔界村外传 - 兽人任务2暗黑恶魔（美）",
+  "zh-hint": "mojiecunwaizhuanshourenrenwu2anheiemo(mei)",
+  "ja": "魔界村外伝 - レッドアリーマー2（米）",
+  "ja-hint": "まかいむらがいでんレッドアリーマー2（べい）",
+  "id": 158,
+  "name": "Gargoyle's Quest II - The Demon Darkness (USA)"
+ },
+ {
+  "zh": "圣铠传说（美）",
+  "zh-hint": "shengkaichuanshuo(mei)",
+  "ja": "ガントレット（米）",
+  "id": 159,
+  "name": "Gauntlet (USA)"
+ },
+ {
+  "zh": "圣铠传说2（美）",
+  "zh-hint": "shengkaichuanshuo2(mei)",
+  "ja": "ガントレット2（米）",
+  "id": 160,
+  "name": "Gauntlet II (USA)"
+ },
+ {
+  "zh": "激凸四驱车（日）",
+  "zh-hint": "jitusiquche(ri)",
+  "ja": "激突四駆バトル（日）",
+  "ja-hint": "げきとつよんくバトル（にち）",
+  "id": 161,
+  "name": "Gekitotsu Yonku Battle (Japan)"
+ },
+ {
+  "zh": "魔界村（美）",
+  "zh-hint": "mojiecun(mei)",
+  "ja": "魔界村（米）",
+  "ja-hint": "まかいむら（べい）",
+  "id": 162,
+  "name": "Ghosts'n Goblins (USA)"
+ },
+ {
+  "zh": "五子棋（日）",
+  "zh-hint": "wuziqi(ri)",
+  "ja": "五目ならべ（日）",
+  "ja-hint": "ごもくならべ（にち）",
+  "id": 163,
+  "name": "Gomoku Narabe (Japan)"
+ },
+ {
+  "zh": "七宝奇谋（日）",
+  "zh-hint": "qibaoqimou(ri)",
+  "ja": "グーニーズ（日）",
+  "id": 164,
+  "name": "Goonies (Japan)"
+ },
+ {
+  "zh": "七宝奇谋2 - 弗雷泰利最后的挑战（美）",
+  "zh-hint": "qibaoqimou2fuleitailizuihoudetiaozhan(mei)",
+  "ja": "フラッテリー最後の挑戦（米）",
+  "ja-hint": "フラッテリーさいごのちょうせん（べい）",
+  "id": 165,
+  "name": "Goonies II (USA)"
+ },
+ {
+  "zh": "七宝奇谋2 - 弗雷泰利最后的挑战（日）",
+  "zh-hint": "qibaoqimou2fuleitailizuihoudetiaozhan(ri)",
+  "ja": "フラッテリー最後の挑戦（日）",
+  "ja-hint": "フラッテリーさいごのちょうせん（にち）",
+  "id": 166,
+  "name": "Goonies II, The - Fratelli Saigo no Chousen (Japan)",
+  "dir": "Goonies II (USA)"
+ },
+ {
+  "zh": "古里亚人（日）",
+  "zh-hint": "guliyaren(ri)",
+  "ja": "ゴリラーマン（日）",
+  "id": 167,
+  "name": "Gorilla Man (Japan)"
+ },
+ {
+  "zh": "宇宙巡航机（美）",
+  "zh-hint": "yuzhouxunhangji(mei)",
+  "ja": "グラディウス（米）",
+  "id": 168,
+  "name": "Gradius (USA)"
+ },
+ {
+  "zh": "英雄挑战（日）",
+  "zh-hint": "yingxiongtiaozhan(ri)",
+  "ja": "グレイトバトルサイバー（日）",
+  "id": 169,
+  "name": "Great Battle Cyber (Japan)"
+ },
+ {
+  "zh": "小精灵续集心种诞生（美）",
+  "zh-hint": "xiaojinglingxujixinzhongdansheng(mei)",
+  "ja": "グレムリン2 新・種・誕・生（米）",
+  "ja-hint": "グレムリン2しんしゅたんじょう（べい）",
+  "id": 170,
+  "name": "Gremlins 2 - The New Batch (USA)"
+ },
+ {
+  "zh": "古巴战士（美）",
+  "zh-hint": "gubazhanshi(mei)",
+  "ja": "ゲバラ（米）",
+  "id": 171,
+  "name": "Guerrilla War (USA)"
+ },
+ {
+  "zh": "古巴战士（日）",
+  "zh-hint": "gubazhanshi(ri)",
+  "ja": "ゲバラ（日）",
+  "id": 172,
+  "name": "Guevara (Japan)",
+  "dir": "Guerrilla War (USA)"
+ },
+ {
+  "zh": "加纳战机（美）",
+  "zh-hint": "jianazhanji(mei)",
+  "ja": "ガンナック（米）",
+  "id": 173,
+  "name": "Gun Nac (USA)"
+ },
+ {
+  "zh": "加纳战机（日）",
+  "zh-hint": "jianazhanji(ri)",
+  "ja": "ガンナック（日）",
+  "id": 174,
+  "name": "Gun Nac (Japan)",
+  "dir": "Gun Nac (USA)"
+ },
+ {
+  "zh": "荒野大镖客（美）",
+  "zh-hint": "huangyedabiaoke(mei)",
+  "ja": "ガンスモーク（米）",
+  "id": 175,
+  "name": "Gun.Smoke (USA)"
+ },
+ {
+  "zh": "战斗直升机（日）",
+  "zh-hint": "zhandouzhishengji(ri)",
+  "ja": "ジャイロダイン（日）",
+  "id": 176,
+  "name": "Gyrodine (Japan)"
+ },
+ {
+  "zh": "太阳系战机（美）",
+  "zh-hint": "taiyangxizhanji(mei)",
+  "ja": "ジャイラス（米）",
+  "id": 177,
+  "name": "Gyruss (USA)"
+ },
+ {
+  "zh": "半熟英雄（日）",
+  "zh-hint": "banshuyingxiong(ri)",
+  "ja": "半熟ヒーロー（日）",
+  "ja-hint": "はんじゅくヒーロー（にち）",
+  "id": 178,
+  "name": "Hanjuku Hero (Japan)"
+ },
+ {
+  "zh": "超级围棋（日）",
+  "zh-hint": "chaojiweiqi(ri)",
+  "ja": "早打ちスーパー囲碁（日）",
+  "ja-hint": "はやうちスーパーいご（にち）",
+  "id": 179,
+  "name": "Hayauchi Super Igo (Japan)"
+ },
+ {
+  "zh": "重炮（美）",
+  "zh-hint": "zhongpao(mei)",
+  "ja": "ヘビーバレル（米）",
+  "id": 180,
+  "name": "Heavy Barrel (USA)"
+ },
+ {
+  "zh": "重炮（日）",
+  "zh-hint": "zhongpao(ri)",
+  "ja": "ヘビーバレル（日）",
+  "id": 181,
+  "name": "Heavy Barrel (Japan)",
+  "dir": "Heavy Barrel (USA)"
+ },
+ {
+  "zh": "暴击战士87（日）",
+  "zh-hint": "baojizhanshi87(ri)",
+  "ja": "ヘクター'87（日）",
+  "id": 182,
+  "name": "Hector 87 (Japan)"
+ },
+ {
+  "zh": "暴击战士87（美）",
+  "zh-hint": "baojizhanshi87(mei)",
+  "ja": "ヘクター'87（米）",
+  "id": 183,
+  "name": "Starship Hector (USA)",
+  "dir": "Hector 87 (Japan)"
+ },
+ {
+  "zh": "星之卡比 - 梦之泉物语（日）",
+  "zh-hint": "xingzhikabi - mengzhiquanwuyu(ri)",
+  "ja": "星のカービィ - 夢の泉の物語（日）",
+  "ja-hint": "ほしのカービィ - ゆめのいずみのものがたり（にち）",
+  "id": 184,
+  "name": "Hoshi no Kirby - Yume no Izumi no Monogatari (Japan)"
+ },
+ {
+  "zh": "星之卡比 - 梦之泉物语（美）",
+  "ja": "星のカービィ - 夢の泉の物語（米）",
+  "id": 185,
+  "name": "Kirby's Adventure (USA) (Rev A)",
+  "dir": "Hoshi no Kirby - Yume no Izumi no Monogatari (Japan)"
+ },
+ {
+  "zh": "虎穴行动（日）",
+  "zh-hint": "huxuexingdong(ri)",
+  "ja": "ホステージ（日）",
+  "id": 186,
+  "name": "Hostages - The Embassy Mission (Japan)"
+ },
+ {
+  "zh": "敲冰块（日）",
+  "zh-hint": "qiaobingkuai(ri)",
+  "ja": "アイスクライマー（日）",
+  "id": 187,
+  "name": "Ice Climber (Japan)"
+ },
+ {
+  "zh": "敲冰块（欧，美）",
+  "ja": "アイスクライマー（欧、米）",
+  "id": 188,
+  "name": "Ice Climber (USA, Europe)",
+  "dir": "Ice Climber (Japan)"
+ },
+ {
+  "zh": "热血曲棍球（日）",
+  "zh-hint": "rexuequgunqiu(ri)",
+  "ja": "熱血ホッケー部 - すべってころんで大乱闘（日）",
+  "ja-hint": "ねっけつホッケーぶすべってころんでだいらんとう（にち）",
+  "id": 189,
+  "name": "Ike Ike! Nekketsu Hockey Bu - Subette Koronde Dai Rantou (Japan)"
+ },
+ {
+  "zh": "农夫忍者（日）",
+  "zh-hint": "nongfurenzhe(ri)",
+  "ja": "一揆（日）",
+  "ja-hint": "いっき（にち）",
+  "id": 190,
+  "name": "Ikki (Japan)"
+ },
+ {
+  "zh": "梦幻战机（美）",
+  "zh-hint": "menghuanzhanji(mei)",
+  "ja": "イメージファイト（米）",
+  "id": 191,
+  "name": "Image Fight (USA)"
+ },
+ {
+  "zh": "钢铁坦克（美）",
+  "zh-hint": "gangtietanke(mei)",
+  "ja": "グレートタンク（米）",
+  "id": 192,
+  "name": "Iron Tank - The Invasion of Normandy (USA)"
+ },
+ {
+  "zh": "钢铁坦克（日）",
+  "zh-hint": "gangtietanke(ri)",
+  "ja": "グレートタンク（日）",
+  "id": 193,
+  "name": "Great Tank (Japan)",
+  "dir": "Iron Tank - The Invasion of Normandy (USA)"
+ },
+ {
+  "zh": "富豪街（日）",
+  "zh-hint": "fuhaojie(ri)",
+  "ja": "いただきストリート - 私のお店によってって（日）",
+  "ja-hint": "いただきストリートわたしのおみせによってって（にち）",
+  "id": 194,
+  "name": "Itadaki Street - Watashi no Mise ni Yottette (Japan)"
+ },
+ {
+  "zh": "赤色要塞（美）",
+  "zh-hint": "chiseyaosai(mei)",
+  "ja": "特殊部隊ジャッカル（米）",
+  "ja-hint": "とくしゅぶたいジャッカル（べい）",
+  "id": 195,
+  "name": "Jackal (USA)"
+ },
+ {
+  "zh": "小詹姆斯 邦德（美）",
+  "zh-hint": "xiaozhanmusi.bangde(mei)",
+  "ja": "ジェームズ ボンド（米）",
+  "id": 196,
+  "name": "James Bond Jr (USA)"
+ },
+ {
+  "zh": "欢乐机器人格斗（日）",
+  "zh-hint": "huanlejiqirengedou(ri)",
+  "ja": "ジョイメカファイト（日）",
+  "id": 197,
+  "name": "Joy Mech Fight (Japan)"
+ },
+ {
+  "zh": "奇幻森林（美）",
+  "zh-hint": "qihuansenlin(mei)",
+  "ja": "ジャングル・ブック（米）",
+  "id": 198,
+  "name": "Jungle Book (USA)"
+ },
+ {
+  "zh": "踢王（美）",
+  "zh-hint": "tiwang(mei)",
+  "ja": "キック マスター（米）",
+  "id": 199,
+  "name": "Kick Master (USA)"
+ },
+ {
+  "zh": "国夫君的热血足球（日）",
+  "zh-hint": "guofujunderexuezuqiu(ri)",
+  "ja": "くにおくんの熱血サッカーリーグ（日）",
+  "ja-hint": "くにおくんのねっけつサッカーリーグ（にち）",
+  "id": 200,
+  "name": "Kunio-kun no Nekketsu Soccer League (Japan)"
+ },
+ {
+  "zh": "大嘴鸟乐园（日）",
+  "zh-hint": "dazuiniaoleyuan(ri)",
+  "ja": "キョロちゃんランド（日）",
+  "id": 201,
+  "name": "Kyoro Chan Land (Japan)"
+ },
+ {
+  "zh": "大嘴鸟乐园（美）",
+  "ja": "キョロちゃんランド（米）",
+  "id": 202,
+  "name": "Castelian (USA)",
+  "dir": "Kyoro Chan Land (Japan)"
+ },
+ {
+  "zh": "塞尔达传说 - 海拉鲁幻想（美）",
+  "zh-hint": "saierdachuanshuo - hailaluhuanxiang(mei)",
+  "ja": "ゼルダの伝説（米）",
+  "ja-hint": "ゼルダのでんせつ（べい）",
+  "id": 203,
+  "name": "Legend of Zelda (USA) (Rev A)"
+ },
+ {
+  "zh": "塞尔达传说 - 海拉鲁幻想（日）",
+  "ja": "ゼルダの伝説（日）",
+  "id": 204,
+  "name": "Zelda no Densetsu 1 - The Hyrule Fantasy (Japan)",
+  "dir": "Legend of Zelda (USA) (Rev A)"
+ },
+ {
+  "zh": "淘金者（美）",
+  "zh-hint": "taojinzhe(mei)",
+  "ja": "ロードランナー（米）",
+  "id": 205,
+  "name": "Lode Runner (USA)"
+ },
+ {
+  "zh": "斧王（日）",
+  "zh-hint": "fuwang(ri)",
+  "ja": "ザ・ロードオブキング（日）",
+  "id": 206,
+  "name": "Lord of King (Japan)"
+ },
+ {
+  "zh": "斧王（美）",
+  "ja": "ザ・ロードオブキング（米）",
+  "id": 207,
+  "name": "Astyanax (USA)",
+  "dir": "Lord of King (Japan)"
+ },
+ {
+  "zh": "月宫桌球（美）",
+  "zh-hint": "yuegongzhuoqiu(mei)",
+  "ja": "ルナーボール（米）",
+  "id": 208,
+  "name": "Lunar Pool (USA)"
+ },
+ {
+  "zh": "魔城传说2 - 大魔司教（日）",
+  "zh-hint": "mochengchuanshuo2 - damosijiao(ri)",
+  "ja": "魔城伝説2 - ガリウスの迷宮（日）",
+  "ja-hint": "まじょうでんせつ2 - ガリウスのめいきゅう（にち）",
+  "id": 209,
+  "name": "Majou Densetsu II - Daimashikyou Galious (Japan)"
+ },
+ {
+  "zh": "猫捉老鼠（日）",
+  "zh-hint": "maozhuolaoshu(ri)",
+  "ja": "マッピー（日）",
+  "id": 210,
+  "name": "Mappy (Japan)"
+ },
+ {
+  "zh": "马里奥兄弟（美）",
+  "zh-hint": "maliaoxiongdi(mei)",
+  "ja": "マリオブラザーズ（米）",
+  "id": 211,
+  "name": "Mario Bros. (USA) (GameCube Edition)"
+ },
+ {
+  "zh": "马里奥失踪记（美）",
+  "zh-hint": "maliaoshizongji(mei)",
+  "ja": "マリオがいない！（米）",
+  "id": 212,
+  "name": "Mario Is Missing! (USA)"
+ },
+ {
+  "zh": "马里奥的时间机器（美）",
+  "zh-hint": "maliaodeshijianjiqi(mei)",
+  "ja": "マリオ・ズ・タイムマシーン（米）",
+  "id": 213,
+  "name": "Mario's Time Machine (USA)"
+ },
+ {
+  "zh": "魔天童子（日）",
+  "zh-hint": "motiantongzi(ri)",
+  "ja": "魔天童子（日）",
+  "ja-hint": "まてんどうじ（にち）",
+  "id": 214,
+  "name": "Matendouji (Japan)"
+ },
+ {
+  "zh": "魔天童子（美）",
+  "ja": "魔天童子（米）",
+  "id": 215,
+  "name": "Conquest of the Crystal Palace (USA)",
+  "dir": "Matendouji (Japan)"
+ },
+ {
+  "zh": "合金装备（美）",
+  "zh-hint": "hejinzhuangbei(mei)",
+  "ja": "メタルギア（米）",
+  "id": 216,
+  "name": "Metal Gear (USA)"
+ },
+ {
+  "zh": "重装机兵（日）",
+  "zh-hint": "zhongzhuangjibing(ri)",
+  "ja": "メタルマックス（日）",
+  "id": 217,
+  "name": "Metal Max (Japan)"
+ },
+ {
+  "zh": "重装机兵（中）",
+  "ja": "メタルマックス（中）",
+  "id": 218,
+  "name": "Metal Max (CN)",
+  "dir": "Metal Max (Japan)"
+ },
+ {
+  "zh": "银河战士（美）",
+  "zh-hint": "yinhezhanshi(mei)",
+  "ja": "メトロイド（米）",
+  "id": 219,
+  "name": "Metroid (USA)"
+ },
+ {
+  "zh": "快打旋风（美）",
+  "zh-hint": "kuaidaxuanfeng(mei)",
+  "ja": "マイティファイナルファイト（米）",
+  "id": 220,
+  "name": "Mighty Final Fight (USA)"
+ },
+ {
+  "zh": "迷宫组曲（美）",
+  "zh-hint": "migongzuqu(mei)",
+  "ja": "迷宮組曲 - ミロンの大冒険（米）",
+  "ja-hint": "めいきゅうくみきょく - ミロンのだいぼうけん（べい）",
+  "id": 221,
+  "name": "Milon's Secret Castle (USA)"
+ },
+ {
+  "zh": "碟中谍（美）",
+  "zh-hint": "diezhongdie(mei)",
+  "ja": "ミッション:インポッシブル（米）",
+  "id": 222,
+  "name": "Mission Impossible (USA)"
+ },
+ {
+  "zh": "三目童子（日）",
+  "zh-hint": "sanmutongzi(ri)",
+  "ja": "三つ目がとおる（日）",
+  "ja-hint": "みつめがとおる（にち）",
+  "id": 223,
+  "name": "Mitsume ga Tooru (Japan)"
+ },
+ {
+  "zh": "热血格斗传说（日）",
+  "zh-hint": "rexuegedouchuanshuo(ri)",
+  "ja": "熱血格闘伝説（日）",
+  "ja-hint": "ねっけつかくとうでんせつ（にち）",
+  "id": 224,
+  "name": "Nekketsu Kakutou Densetsu (Japan)"
+ },
+ {
+  "zh": "热血格斗传说（中）",
+  "ja": "熱血格闘伝説（中）",
+  "id": 225,
+  "name": "Nekketsu Kakutou Densetsu (CN)",
+  "dir": "Nekketsu Kakutou Densetsu (Japan)"
+ },
+ {
+  "zh": "热血格斗传说（日英）",
+  "ja": "熱血格闘伝説（日英）",
+  "id": 226,
+  "name": "Nekketsu Kakutou Densetsu (Riki Kunio) (J) [T-Eng0.95]",
+  "dir": "Nekketsu Kakutou Densetsu (Japan)"
+ },
+ {
+  "zh": "热血高校躲避球部（日）",
+  "zh-hint": "rexuegaoxiaoduobiqiubu(ri)",
+  "ja": "熱血高校ドッジボール部（日）",
+  "ja-hint": "ねっけつこうこうドッジボールぶ（にち）",
+  "id": 227,
+  "name": "Nekketsu Koukou Dodgeball-bu (Japan)"
+ },
+ {
+  "zh": "忍者龙剑传（日）",
+  "zh-hint": "renzhelongjianzhuan(ri)",
+  "ja": "忍者龍剣伝（日）",
+  "ja-hint": "にんじゃりゅうけんでん（にち）",
+  "id": 228,
+  "name": "Ninja Ryuuken Den (Japan)"
+ },
+ {
+  "zh": "忍者龙剑传（美）",
+  "ja": "忍者龍剣伝（米）",
+  "id": 229,
+  "name": "Ninja Gaiden (USA)",
+  "dir": "Ninja Ryuuken Den (Japan)"
+ },
+ {
+  "zh": "忍者龙剑传2 - 暗黑的邪神剑（日）",
+  "zh-hint": "renzhelongjianzhuan2 - anheidexieshenjian(ri)",
+  "ja": "忍者龍剣伝2 - 暗黒の邪神剣（日）",
+  "ja-hint": "にんじゃりゅうけんでん2 - あんこくのじゃしんけん（にち）",
+  "id": 230,
+  "name": "Ninja Ryuuken Den II - Ankoku no Jashin Ken (Japan)"
+ },
+ {
+  "zh": "忍者龙剑传2 - 暗黑的邪神剑（美）",
+  "ja": "忍者龍剣伝2 - 暗黒の邪神剣（米）",
+  "id": 231,
+  "name": "Ninja Gaiden II - The Dark Sword of Chaos (USA)",
+  "dir": "Ninja Ryuuken Den II - Ankoku no Jashin Ken (Japan)"
+ },
+ {
+  "zh": "忍者龙剑传3 - 黄泉的方舟（日）",
+  "zh-hint": "renzhelongjianzhuan3 - huangquandefangzhou(ri)",
+  "ja": "忍者龍剣伝3 - 黄泉の方舟（日）",
+  "ja-hint": "にんじゃりゅうけんでん3 - よみのはこぶね（にち）",
+  "id": 232,
+  "name": "Ninja Ryuuken Den III - Yomi no Hakobune (Japan)"
+ },
+ {
+  "zh": "忍者龙剑传3 - 黄泉的方舟（美）",
+  "ja": "忍者龍剣伝3 - 黄泉の方舟（米）",
+  "id": 233,
+  "name": "Ninja Gaiden III - The Ancient Ship of Doom (USA)",
+  "dir": "Ninja Ryuuken Den III - Yomi no Hakobune (Japan)"
+ },
+ {
+  "zh": "爱的小屋（日）",
+  "zh-hint": "aidexiaowu(ri)",
+  "ja": "ナッツ & ミルク（日）",
+  "id": 234,
+  "name": "Nuts & Milk (Japan)"
+ },
+ {
+  "zh": "吃豆人（美）",
+  "zh-hint": "chidouren(mei)",
+  "ja": "パックマン（米）",
+  "id": 235,
+  "name": "Pac-Man (USA) (Namco)"
+ },
+ {
+  "zh": "弹珠台",
+  "zh-hint": "danzhutai",
+  "ja": "ピンボール",
+  "id": 236,
+  "name": "Pinball (World)"
+ },
+ {
+  "zh": "猪小弟（日）",
+  "zh-hint": "zhuxiaodi(ri)",
+  "ja": "プーヤン（日）",
+  "id": 237,
+  "name": "Pooyan (Japan)"
+ },
+ {
+  "zh": "能源战士（美）",
+  "zh-hint": "nengyuanzhanshi(mei)",
+  "ja": "パワーブレイド（米）",
+  "id": 238,
+  "name": "Power Blade (USA)"
+ },
+ {
+  "zh": "射击方块（日）",
+  "zh-hint": "shejifangkuai(ri)",
+  "ja": "クォース（日）",
+  "id": 239,
+  "name": "Quarth (Japan)"
+ },
+ {
+  "zh": "Raf世界（日）",
+  "zh-hint": "Rafshijie(ri)",
+  "ja": "ラフワールド（日）",
+  "id": 240,
+  "name": "Raf World (Japan)"
+ },
+ {
+  "zh": "拉力摩托（美）",
+  "zh-hint": "lalimotuo(mei)",
+  "ja": "ラリーバイク（米）",
+  "id": 241,
+  "name": "Rally Bike (USA)"
+ },
+ {
+  "zh": "冲刺野朗（日）",
+  "ja": "ダッシュ野郎（日）",
+  "id": 242,
+  "name": "Dash Yarou (Japan)",
+  "dir": "Rally Bike (USA)"
+ },
+ {
+  "zh": "火箭车（日）",
+  "zh-hint": "huojianche(ri)",
+  "ja": "ロードファイター（日）",
+  "id": 243,
+  "name": "Road Fighter (Japan)"
+ },
+ {
+  "zh": "洛克人（日）",
+  "zh-hint": "luokeren1(ri)",
+  "ja": "ロックマン（日）",
+  "ja-hint": "ロックマン1（にち）",
+  "id": 244,
+  "name": "Rockman (Japan) (En)"
+ },
+ {
+  "zh": "洛克人（美）",
+  "ja": "ロックマン（米）",
+  "id": 245,
+  "name": "Mega Man (USA)",
+  "dir": "Rockman (Japan) (En)"
+ },
+ {
+  "zh": "洛克人2 - 威利博士之谜（日）",
+  "zh-hint": "luokeren2 - weiliboshizhimi(ri)",
+  "ja": "ロックマン2 - Dr.ワイリーの謎（日）",
+  "ja-hint": "ロックマン2 - Dr.ワイリーのなぞ（にち）",
+  "id": 246,
+  "name": "Rockman 2 - Dr. Wily no Nazo (Japan)"
+ },
+ {
+  "zh": "洛克人2 - 威利博士之谜（美）",
+  "ja": "ロックマン2 - Dr.ワイリーの謎（米）",
+  "id": 247,
+  "name": "Mega Man 2 (USA)",
+  "dir": "Rockman 2 - Dr. Wily no Nazo (Japan)"
+ },
+ {
+  "zh": "洛克人3 - 威利博士的末期!?（日）",
+  "zh-hint": "luokeren3 - weiliboshidemoqi!?(ri)",
+  "ja": "ロックマン3 - Dr.ワイリーの最後!?（日）",
+  "ja-hint": "ロックマン3 - Dr.ワイリーのさいご!?（にち）",
+  "id": 248,
+  "name": "Rockman 3 - Dr. Wily no Saigo! (Japan)"
+ },
+ {
+  "zh": "洛克人3 - 威利博士的末期!?（美）",
+  "ja": "ロックマン3 - Dr.ワイリーの最後!?（米）",
+  "id": 249,
+  "name": "Mega Man 3 (USA)",
+  "dir": "Rockman 3 - Dr. Wily no Saigo! (Japan)"
+ },
+ {
+  "zh": "洛克人4 - 新的野心!!（日）",
+  "zh-hint": "luokeren4 - xindeyexin!!(ri)",
+  "ja": "ロックマン4 - 新たなる野望!!（日）",
+  "ja-hint": "ロックマン4 - あらたなるやぼう（にち）",
+  "id": 250,
+  "name": "Rockman 4 - Aratanaru Yabou!! (Japan)"
+ },
+ {
+  "zh": "洛克人4 - 新的野心!!（美）",
+  "ja": "ロックマン4 - 新たなる野望!!（米）",
+  "id": 251,
+  "name": "Mega Man 4 (USA)",
+  "dir": "Rockman 4 - Aratanaru Yabou!! (Japan)"
+ },
+ {
+  "zh": "洛克人5 - 布鲁斯的陷阱!?（日）",
+  "zh-hint": "luokeren5 - bulusidexianjin!?(ri)",
+  "ja": "ロックマン5 - ブルースの罠!?（日）",
+  "ja-hint": "ロックマン5 - ブルースのわな（にち）",
+  "id": 252,
+  "name": "Rockman 5 - Blues no Wana! (Japan)"
+ },
+ {
+  "zh": "洛克人5 - 布鲁斯的陷阱!?（美）",
+  "ja": "ロックマン5 - ブルースの罠!?（米）",
+  "id": 253,
+  "name": "Mega Man 5 (USA)",
+  "dir": "Rockman 5 - Blues no Wana! (Japan)"
+ },
+ {
+  "zh": "洛克人6 - 史上最大战争!!（日）",
+  "zh-hint": "luokeren6 - shishangzuidazhanzheng!!(ri)",
+  "ja": "ロックマン6 - 史上最大の戦い!!（日）",
+  "ja-hint": "ロックマン6 - しじょうさいだいのたたかい（にち）",
+  "id": 254,
+  "name": "Rockman 6 - Shijou Saidai no Tatakai!! (Japan)"
+ },
+ {
+  "zh": "洛克人6 - 史上最大战争!!（美）",
+  "ja": "ロックマン6 - 史上最大の戦い!!（米）",
+  "id": 255,
+  "name": "Mega Man 6 (USA)",
+  "dir": "Rockman 6 - Shijou Saidai no Tatakai!! (Japan)"
+ },
+ {
+  "zh": "西游记世界（日）",
+  "zh-hint": "xiyoujishijie(ri)",
+  "ja": "西遊記世界（日）",
+  "ja-hint": "さいゆうきせかい（にち）",
+  "id": 256,
+  "name": "Saiyuuki World (Japan)"
+ },
+ {
+  "zh": "圣铃传说（日）",
+  "zh-hint": "shenglingchuanshuo(ri)",
+  "ja": "聖鈴伝説 リックル（日）",
+  "ja-hint": "せいれいでんせつ リックル（にち）",
+  "id": 257,
+  "name": "Seirei Densetsu Lickle (Japan)"
+ },
+ {
+  "zh": "赤影战士（美）",
+  "zh-hint": "chiyingzhanshi(mei)",
+  "ja": "闇の仕事人 KAGE（米）",
+  "ja-hint": "やみのしごとにん KAGE（べい）",
+  "id": 258,
+  "name": "Shadow of the Ninja (USA)"
+ },
+ {
+  "zh": "新人类（日）",
+  "zh-hint": "xinrenlei(ri)",
+  "ja": "新人類（日）",
+  "ja-hint": "しんじんるい（日）",
+  "id": 259,
+  "name": "Shin Jinrui - The New Type (Japan)"
+ },
+ {
+  "zh": "红巾特工队（日）",
+  "zh-hint": "hongjintegongdui(ri)",
+  "ja": "スカイデストロイヤー（日）",
+  "id": 260,
+  "name": "Sky Destroyer (Japan)"
+ },
+ {
+  "zh": "雪人兄弟（美）",
+  "zh-hint": "xuerenxiongdi(mei)",
+  "ja": "スノーブラザーズ（米）",
+  "id": 261,
+  "name": "Snow Brothers (USA)"
+ },
+ {
+  "zh": "所罗门之匙（美）",
+  "zh-hint": "suoluomenzhishi(mei)",
+  "ja": "ソロモンの鍵（米）",
+  "ja-hint": "ソロモンのかぎ（べい）",
+  "id": 262,
+  "name": "Solomon's Key (USA)"
+ },
+ {
+  "zh": "魔城奇兵 - 三次元迷宫的狂兽（美）",
+  "zh-hint": "mochengqibing - sanciyuanmigongdekuangshou(mei)",
+  "ja": "ソルスティス - 三次元迷宮の狂獣（米）",
+  "ja-hint": "ソルスティス - さんじげんめいきゅうのきょうじゅう（べい）",
+  "id": 263,
+  "name": "Solstice - The Quest for the Staff of Demnos (USA)"
+ },
+ {
+  "zh": "星际战士（日）",
+  "zh-hint": "xingjizhanshi(ri)",
+  "ja": "スターソルジャー（日）",
+  "id": 264,
+  "name": "Star Soldier (Japan)"
+ },
+ {
+  "zh": "热带之星（美）",
+  "zh-hint": "redaizhixing(mei)",
+  "ja": "スタートロピックス（米）",
+  "id": 265,
+  "name": "StarTropics (USA)"
+ },
+ {
+  "zh": "超级魂斗罗（美）",
+  "zh-hint": "chaojihundouluo(mei)",
+  "ja": "スーパー魂斗羅 エイリアンの逆襲（米）",
+  "ja-hint": "スーパーコントラ エイリアンのぎゃくしゅう（べい）",
+  "id": 266,
+  "name": "Super C (USA)"
+ },
+ {
+  "zh": "超级马里奥兄弟",
+  "zh-hint": "chaojimaliaoxiongdi",
+  "ja": "スーパーマリオブラザーズ",
+  "id": 267,
+  "name": "Super Mario Bros. (World)"
+ },
+ {
+  "zh": "超级马里奥兄弟2（美）",
+  "zh-hint": "chaojimaliaoxiongdi2(mei)",
+  "ja": "スーパーマリオブラザーズ2（米）",
+  "id": 268,
+  "name": "Super Mario Bros. 2 (USA)"
+ },
+ {
+  "zh": "超级马里奥兄弟2（日）",
+  "zh-hint": "chaojimaliaoxiongdi2(ri)",
+  "ja": "スーパーマリオブラザーズ2（日）",
+  "id": 269,
+  "name": "Super Mario Bros. 2 The Lost Levels (J)"
+ },
+ {
+  "zh": "超级马里奥兄弟3（美）",
+  "zh-hint": "chaojimaliaoxiongdi3(mei)",
+  "ja": "スーパーマリオブラザーズ3（米）",
+  "id": 270,
+  "name": "Super Mario Bros. 3 (USA)"
+ },
+ {
+  "zh": "甜蜜之家（日英）",
+  "zh-hint": "tianmizhijia(riying)",
+  "ja": "スウィートホーム（日英）",
+  "id": 271,
+  "name": "Sweet Home (Eng)"
+ },
+ {
+  "zh": "甜蜜之家（日）",
+  "ja": "スウィートホーム（日）",
+  "id": 272,
+  "name": "Sweet Home (Japan)",
+  "dir": "Sweet Home (Eng)"
+ },
+ {
+  "zh": "冒险岛（日）",
+  "zh-hint": "maoxiandao(ri)",
+  "ja": "高橋名人の冒険島（日）",
+  "ja-hint": "たかはしめいじんのぼうけんじま（にち）",
+  "id": 273,
+  "name": "Takahashi Meijin no Bouken Jima (Japan)"
+ },
+ {
+  "zh": "冒险岛2（日）",
+  "zh-hint": "maoxiandao2(ri)",
+  "ja": "高橋名人の冒険島2（日）",
+  "ja-hint": "たかはしめいじんのぼうけんじま2（にち）",
+  "id": 274,
+  "name": "Takahashi Meijin no Bouken Jima II (Japan)"
+ },
+ {
+  "zh": "冒险岛2（美）",
+  "ja": "高橋名人の冒険島2（米）",
+  "id": 275,
+  "name": "Adventure Island II (USA)",
+  "dir": "Takahashi Meijin no Bouken Jima II (Japan)"
+ },
+ {
+  "zh": "冒险岛3（日）",
+  "zh-hint": "maoxiandao3(ri)",
+  "ja": "高橋名人の冒険島3（日）",
+  "ja-hint": "たかはしめいじんのぼうけんじま3（にち）",
+  "id": 276,
+  "name": "Takahashi Meijin no Bouken Jima III (Japan)"
+ },
+ {
+  "zh": "冒险岛3（美）",
+  "ja": "高橋名人の冒険島3（米）",
+  "id": 277,
+  "name": "Adventure Island III (USA)",
+  "dir": "Takahashi Meijin no Bouken Jima III (Japan)"
+ },
+ {
+  "zh": "忍者神龟（美）",
+  "zh-hint": "renzheshengui(mei)",
+  "ja": "ティーンエイジ・ミュータント・ニンジャ・タートルズ（米）",
+  "id": 278,
+  "name": "Teenage Mutant Ninja Turtles (USA)"
+ },
+ {
+  "zh": "激龟快打（美）",
+  "zh-hint": "jiguikuaida(mei)",
+  "ja": "Teenage Mutant Ninja Turtles - Tournament Fighters（米）",
+  "id": 279,
+  "name": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA)"
+ },
+ {
+  "zh": "忍者神龟2（美）",
+  "zh-hint": "renzheshengui2(mei)",
+  "ja": "ティーンエイジ・ミュータント・ニンジャ・タートルズ2（米）",
+  "id": 280,
+  "name": "Teenage Mutant Ninja Turtles II - The Arcade Game (USA)"
+ },
+ {
+  "zh": "忍者神龟3（美）",
+  "zh-hint": "renzheshengui3(mei)",
+  "ja": "ティーンエイジ・ミュータント・ニンジャ・タートルズ3（米）",
+  "id": 281,
+  "name": "Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)"
+ },
+ {
+  "zh": "吞食天地（日）",
+  "zh-hint": "tunshitiandi(ri)",
+  "ja": "天地を喰らう（日）",
+  "ja-hint": "てんちをくらう（にち）",
+  "id": 282,
+  "name": "Tenchi wo Kurau (Japan)"
+ },
+ {
+  "zh": "吞食天地（中）",
+  "ja": "天地を喰らう（中）",
+  "id": 283,
+  "name": "Tenchi wo Kurau (CN)",
+  "dir": "Tenchi wo Kurau (Japan)"
+ },
+ {
+  "zh": "吞食天地（美）",
+  "ja": "天地を喰らう（米）",
+  "id": 284,
+  "name": "Destiny of an Emperor (USA)",
+  "dir": "Tenchi wo Kurau (Japan)"
+ },
+ {
+  "zh": "吞食天地2 - 诸葛孔明传（日）",
+  "zh-hint": "tunshitiandi2 - zhugekongmingzhuan(ri)",
+  "ja": "天地を喰らう2 - 諸葛孔明伝（日）",
+  "ja-hint": "てんちをくらう2 - しょかつこうめいでん（にち）",
+  "id": 285,
+  "name": "Tenchi wo Kurau II - Shokatsu Koumei Den (Japan)"
+ },
+ {
+  "zh": "俄罗斯方块（美）",
+  "zh-hint": "eluosifangkuai(mei)",
+  "ja": "テトリス（米）",
+  "id": 286,
+  "name": "Tetris (USA)"
+ },
+ {
+  "zh": "俄罗斯方块2（美）",
+  "zh-hint": "eluosifangkuai2(mei)",
+  "ja": "テトリス2（米）",
+  "id": 287,
+  "name": "Tetris 2 (USA)"
+ },
+ {
+  "zh": "俄罗斯方块（Tengen）",
+  "zh-hint": "eluosifangkuai(tengen)",
+  "ja": "テトリス（Tengen）",
+  "id": 288,
+  "name": "Tetris The Soviet Mind Game"
+ },
+ {
+  "zh": "实验人冒险（美）",
+  "zh-hint": "shiyanrenmaoxian(mei)",
+  "ja": "クラッシュ・ダミー（米）",
+  "id": 289,
+  "name": "The Incredible Crash Dummies (USA)"
+ },
+ {
+  "zh": "时间领主（美）",
+  "zh-hint": "shijianlingzhu(mei)",
+  "ja": "タイム ロード（米）",
+  "id": 290,
+  "name": "Time Lord (USA)"
+ },
+ {
+  "zh": "兔宝宝（美）",
+  "zh-hint": "tubaobao(mei)",
+  "ja": "タイニー・トゥーン アドベンチャーズ（米）",
+  "id": 291,
+  "name": "Tiny Toon Adventures (USA)"
+ },
+ {
+  "zh": "兔宝宝2（美）",
+  "zh-hint": "tubaobao2(mei)",
+  "ja": "タイニー・トゥーン アドベンチャーズ2（米）",
+  "id": 292,
+  "name": "Tiny Toon Adventures 2 - Trouble in Wackyland (USA)"
+ },
+ {
+  "zh": "冰蜂（日）",
+  "zh-hint": "bingfeng(ri)",
+  "ja": "ツインビー（日）",
+  "id": 293,
+  "name": "TwinBee (Japan)"
+ },
+ {
+  "zh": "功夫（日）",
+  "zh-hint": "gongfu(ri)",
+  "ja": "イー・アル・カンフー（日）",
+  "id": 294,
+  "name": "Yie Ar Kung-Fu (Japan) (Rev 1.4)"
+ },
+ {
+  "zh": "塞尔达传说2 - 林克的冒险（美）",
+  "zh-hint": "linkedemaoxian(mei)",
+  "ja": "ゼルダ2 - リンクの冒険（米）",
+  "ja-hint": "ゼルダ2 - リンクのぼうけん（べい）",
+  "id": 295,
+  "name": "Zelda II - The Adventure of Link (USA)"
+ },
+ {
+  "id": 296,
+  "name": "Extra Mario Bros",
+  "dir": "specials/Extra Mario Bros"
+ },
+ {
+  "id": 297,
+  "name": "Funny Princess",
+  "dir": "specials/Funny Princess"
+ },
+ {
+  "id": 298,
+  "name": "Kamikaze V3",
+  "dir": "specials/Kamikaze V3"
+ },
+ {
+  "id": 299,
+  "name": "Luigi's Chronicles",
+  "dir": "specials/Luigi's Chronicles"
+ },
+ {
+  "id": 300,
+  "name": "Special Mario",
+  "dir": "specials/Special Mario"
+ },
+ {
+  "id": 301,
+  "name": "Super Mario Bros Unlimited. (W)",
+  "dir": "specials/Super Mario Bros Unlimited. (W)"
+ },
+ {
+  "id": 302,
+  "name": "Tank 1990",
+  "dir": "specials/Tank 1990"
+ }
+]

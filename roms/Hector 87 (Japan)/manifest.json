@@ -1,0 +1,14 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "暴击战士87（日）",
+      "zh-hint": "baojizhanshi87(ri)",
+      "ja": "ヘクター'87（日）"
+    },
+    "Starship Hector (USA)" : {
+      "zh": "暴击战士87（美）",
+      "zh-hint": "baojizhanshi87(mei)",
+      "ja": "ヘクター'87（米）"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "忍者龙剑传2 - 暗黑的邪神剑（日）",
+      "zh-hint": "renzhelongjianzhuan2 - anheidexieshenjian(ri)",
+      "ja": "忍者龍剣伝2 - 暗黒の邪神剣（日）",
+      "ja-hint": "にんじゃりゅうけんでん2 - あんこくのじゃしんけん（にち）"
+    },
+    "Ninja Gaiden II - The Dark Sword of Chaos (USA)" : {
+      "zh": "忍者龙剑传2 - 暗黑的邪神剑（美）",
+      "ja": "忍者龍剣伝2 - 暗黒の邪神剣（米）"
+    }
+  }
+}

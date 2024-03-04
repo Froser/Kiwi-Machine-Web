@@ -1,0 +1,14 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "忍者龙剑传3 - 黄泉的方舟（日）",
+      "zh-hint": "renzhelongjianzhuan3 - huangquandefangzhou(ri)",
+      "ja": "忍者龍剣伝3 - 黄泉の方舟（日）",
+      "ja-hint": "にんじゃりゅうけんでん3 - よみのはこぶね（にち）"
+    },
+    "Ninja Gaiden III - The Ancient Ship of Doom (USA)" : {
+      "zh": "忍者龙剑传3 - 黄泉的方舟（美）",
+      "ja": "忍者龍剣伝3 - 黄泉の方舟（米）"
+    }
+  }
+}

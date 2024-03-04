@@ -1,0 +1,14 @@
+{
+  "titles": {
+    "default" : {
+      "zh": "勇者斗恶龙（日）",
+      "zh-hint": "yongzhedouelong(ri)",
+      "ja": "ドラゴンクエスト（日）"
+    },
+    "Dragon Warrior (USA) (Rev A)" : {
+      "zh": "勇者斗恶龙（美）",
+      "zh-hint": "yongzhedouelong(mei)",
+      "ja": "ドラゴンクエスト（米）"
+    }
+  }
+}
