@@ -2204,6 +2204,16 @@
  },
  {
   "id": 302,
+  "name": "Super Mario Bros. Zero",
+  "dir": "specials/Super Mario Bros. Zero"
+ },
+ {
+  "id": 303,
+  "name": "Super Mario Bros. Zero 2",
+  "dir": "specials/Super Mario Bros. Zero 2"
+ },
+ {
+  "id": 304,
   "name": "Tank 1990",
   "dir": "specials/Tank 1990"
  }

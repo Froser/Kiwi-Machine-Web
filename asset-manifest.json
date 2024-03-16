@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.046f64d6.css",
-    "main.js": "/static/js/main.1ef9b313.js",
+    "main.css": "/static/css/main.0728d989.css",
+    "main.js": "/static/js/main.703dfd5a.js",
     "static/media/SuperMario256.ttf": "/static/media/SuperMario256.727519250ea444b6c5ce.ttf",
+    "static/media/volume3.svg": "/static/media/volume3.c30376ff43538a2a90f7ede2c859bcbd.svg",
+    "static/media/volume2.svg": "/static/media/volume2.9efc1a5df7ccfb73a1419cd252c3f8d9.svg",
+    "static/media/mute.svg": "/static/media/mute.e7411b492c7e827f80ffb74e8882c23b.svg",
+    "static/media/volume1.svg": "/static/media/volume1.9a7fd14e79a8b43208febafda2e9df14.svg",
     "index.html": "/index.html",
-    "main.046f64d6.css.map": "/static/css/main.046f64d6.css.map",
-    "main.1ef9b313.js.map": "/static/js/main.1ef9b313.js.map"
+    "main.0728d989.css.map": "/static/css/main.0728d989.css.map",
+    "main.703dfd5a.js.map": "/static/js/main.703dfd5a.js.map"
   },
   "entrypoints": [
-    "static/css/main.046f64d6.css",
-    "static/js/main.1ef9b313.js"
+    "static/css/main.0728d989.css",
+    "static/js/main.703dfd5a.js"
   ]
 }
