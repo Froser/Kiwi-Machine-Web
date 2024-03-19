@@ -1353,17 +1353,32 @@
   "dir": "Hector 87 (Japan)"
  },
  {
+  "zh": "公路之星（日）",
+  "zh-hint": "gongluzhixing(ri)",
+  "ja": "ハイウェイスター（日）",
+  "id": 184,
+  "name": "Highway Star (Japan)"
+ },
+ {
+  "zh": "火之鸟凤凰篇 - 我王的冒险（日）",
+  "zh-hint": "huozhiniaofenghuangpianwowangdemaoxian(ri)",
+  "ja": "火の鳥鳳凰編 - 我王の冒険（日）",
+  "ja-hint": "ひのとりほうおうへんがおうのぼうけん（にち）",
+  "id": 185,
+  "name": "Hinotori - Houou Hen - Gaou no Bouken (Japan)"
+ },
+ {
   "zh": "星之卡比 - 梦之泉物语（日）",
   "zh-hint": "xingzhikabi - mengzhiquanwuyu(ri)",
   "ja": "星のカービィ - 夢の泉の物語（日）",
   "ja-hint": "ほしのカービィ - ゆめのいずみのものがたり（にち）",
-  "id": 184,
+  "id": 186,
   "name": "Hoshi no Kirby - Yume no Izumi no Monogatari (Japan)"
  },
  {
   "zh": "星之卡比 - 梦之泉物语（美）",
   "ja": "星のカービィ - 夢の泉の物語（米）",
-  "id": 185,
+  "id": 187,
   "name": "Kirby's Adventure (USA) (Rev A)",
   "dir": "Hoshi no Kirby - Yume no Izumi no Monogatari (Japan)"
  },
@@ -1371,20 +1386,20 @@
   "zh": "虎穴行动（日）",
   "zh-hint": "huxuexingdong(ri)",
   "ja": "ホステージ（日）",
-  "id": 186,
+  "id": 188,
   "name": "Hostages - The Embassy Mission (Japan)"
  },
  {
   "zh": "敲冰块（日）",
   "zh-hint": "qiaobingkuai(ri)",
   "ja": "アイスクライマー（日）",
-  "id": 187,
+  "id": 189,
   "name": "Ice Climber (Japan)"
  },
  {
   "zh": "敲冰块（欧，美）",
   "ja": "アイスクライマー（欧、米）",
-  "id": 188,
+  "id": 190,
   "name": "Ice Climber (USA, Europe)",
   "dir": "Ice Climber (Japan)"
  },
@@ -1393,7 +1408,7 @@
   "zh-hint": "rexuequgunqiu(ri)",
   "ja": "熱血ホッケー部 - すべってころんで大乱闘（日）",
   "ja-hint": "ねっけつホッケーぶすべってころんでだいらんとう（にち）",
-  "id": 189,
+  "id": 191,
   "name": "Ike Ike! Nekketsu Hockey Bu - Subette Koronde Dai Rantou (Japan)"
  },
  {
@@ -1401,28 +1416,28 @@
   "zh-hint": "nongfurenzhe(ri)",
   "ja": "一揆（日）",
   "ja-hint": "いっき（にち）",
-  "id": 190,
+  "id": 192,
   "name": "Ikki (Japan)"
  },
  {
   "zh": "梦幻战机（美）",
   "zh-hint": "menghuanzhanji(mei)",
   "ja": "イメージファイト（米）",
-  "id": 191,
+  "id": 193,
   "name": "Image Fight (USA)"
  },
  {
   "zh": "钢铁坦克（美）",
   "zh-hint": "gangtietanke(mei)",
   "ja": "グレートタンク（米）",
-  "id": 192,
+  "id": 194,
   "name": "Iron Tank - The Invasion of Normandy (USA)"
  },
  {
   "zh": "钢铁坦克（日）",
   "zh-hint": "gangtietanke(ri)",
   "ja": "グレートタンク（日）",
-  "id": 193,
+  "id": 195,
   "name": "Great Tank (Japan)",
   "dir": "Iron Tank - The Invasion of Normandy (USA)"
  },
@@ -1431,7 +1446,7 @@
   "zh-hint": "fuhaojie(ri)",
   "ja": "いただきストリート - 私のお店によってって（日）",
   "ja-hint": "いただきストリートわたしのおみせによってって（にち）",
-  "id": 194,
+  "id": 196,
   "name": "Itadaki Street - Watashi no Mise ni Yottette (Japan)"
  },
  {
@@ -1439,35 +1454,35 @@
   "zh-hint": "chiseyaosai(mei)",
   "ja": "特殊部隊ジャッカル（米）",
   "ja-hint": "とくしゅぶたいジャッカル（べい）",
-  "id": 195,
+  "id": 197,
   "name": "Jackal (USA)"
  },
  {
   "zh": "小詹姆斯 邦德（美）",
   "zh-hint": "xiaozhanmusi.bangde(mei)",
   "ja": "ジェームズ ボンド（米）",
-  "id": 196,
+  "id": 198,
   "name": "James Bond Jr (USA)"
  },
  {
   "zh": "欢乐机器人格斗（日）",
   "zh-hint": "huanlejiqirengedou(ri)",
   "ja": "ジョイメカファイト（日）",
-  "id": 197,
+  "id": 199,
   "name": "Joy Mech Fight (Japan)"
  },
  {
   "zh": "奇幻森林（美）",
   "zh-hint": "qihuansenlin(mei)",
   "ja": "ジャングル・ブック（米）",
-  "id": 198,
+  "id": 200,
   "name": "Jungle Book (USA)"
  },
  {
   "zh": "踢王（美）",
   "zh-hint": "tiwang(mei)",
   "ja": "キック マスター（米）",
-  "id": 199,
+  "id": 201,
   "name": "Kick Master (USA)"
  },
  {
@@ -1475,20 +1490,20 @@
   "zh-hint": "guofujunderexuezuqiu(ri)",
   "ja": "くにおくんの熱血サッカーリーグ（日）",
   "ja-hint": "くにおくんのねっけつサッカーリーグ（にち）",
-  "id": 200,
+  "id": 202,
   "name": "Kunio-kun no Nekketsu Soccer League (Japan)"
  },
  {
   "zh": "大嘴鸟乐园（日）",
   "zh-hint": "dazuiniaoleyuan(ri)",
   "ja": "キョロちゃんランド（日）",
-  "id": 201,
+  "id": 203,
   "name": "Kyoro Chan Land (Japan)"
  },
  {
   "zh": "大嘴鸟乐园（美）",
   "ja": "キョロちゃんランド（米）",
-  "id": 202,
+  "id": 204,
   "name": "Castelian (USA)",
   "dir": "Kyoro Chan Land (Japan)"
  },
@@ -1497,13 +1512,13 @@
   "zh-hint": "saierdachuanshuo - hailaluhuanxiang(mei)",
   "ja": "ゼルダの伝説（米）",
   "ja-hint": "ゼルダのでんせつ（べい）",
-  "id": 203,
+  "id": 205,
   "name": "Legend of Zelda (USA) (Rev A)"
  },
  {
   "zh": "塞尔达传说 - 海拉鲁幻想（日）",
   "ja": "ゼルダの伝説（日）",
-  "id": 204,
+  "id": 206,
   "name": "Zelda no Densetsu 1 - The Hyrule Fantasy (Japan)",
   "dir": "Legend of Zelda (USA) (Rev A)"
  },
@@ -1511,20 +1526,20 @@
   "zh": "淘金者（美）",
   "zh-hint": "taojinzhe(mei)",
   "ja": "ロードランナー（米）",
-  "id": 205,
+  "id": 207,
   "name": "Lode Runner (USA)"
  },
  {
   "zh": "斧王（日）",
   "zh-hint": "fuwang(ri)",
   "ja": "ザ・ロードオブキング（日）",
-  "id": 206,
+  "id": 208,
   "name": "Lord of King (Japan)"
  },
  {
   "zh": "斧王（美）",
   "ja": "ザ・ロードオブキング（米）",
-  "id": 207,
+  "id": 209,
   "name": "Astyanax (USA)",
   "dir": "Lord of King (Japan)"
  },
@@ -1532,7 +1547,7 @@
   "zh": "月宫桌球（美）",
   "zh-hint": "yuegongzhuoqiu(mei)",
   "ja": "ルナーボール（米）",
-  "id": 208,
+  "id": 210,
   "name": "Lunar Pool (USA)"
  },
  {
@@ -1540,35 +1555,35 @@
   "zh-hint": "mochengchuanshuo2 - damosijiao(ri)",
   "ja": "魔城伝説2 - ガリウスの迷宮（日）",
   "ja-hint": "まじょうでんせつ2 - ガリウスのめいきゅう（にち）",
-  "id": 209,
+  "id": 211,
   "name": "Majou Densetsu II - Daimashikyou Galious (Japan)"
  },
  {
   "zh": "猫捉老鼠（日）",
   "zh-hint": "maozhuolaoshu(ri)",
   "ja": "マッピー（日）",
-  "id": 210,
+  "id": 212,
   "name": "Mappy (Japan)"
  },
  {
   "zh": "马里奥兄弟（美）",
   "zh-hint": "maliaoxiongdi(mei)",
   "ja": "マリオブラザーズ（米）",
-  "id": 211,
+  "id": 213,
   "name": "Mario Bros. (USA) (GameCube Edition)"
  },
  {
   "zh": "马里奥失踪记（美）",
   "zh-hint": "maliaoshizongji(mei)",
   "ja": "マリオがいない！（米）",
-  "id": 212,
+  "id": 214,
   "name": "Mario Is Missing! (USA)"
  },
  {
   "zh": "马里奥的时间机器（美）",
   "zh-hint": "maliaodeshijianjiqi(mei)",
   "ja": "マリオ・ズ・タイムマシーン（米）",
-  "id": 213,
+  "id": 215,
   "name": "Mario's Time Machine (USA)"
  },
  {
@@ -1576,13 +1591,13 @@
   "zh-hint": "motiantongzi(ri)",
   "ja": "魔天童子（日）",
   "ja-hint": "まてんどうじ（にち）",
-  "id": 214,
+  "id": 216,
   "name": "Matendouji (Japan)"
  },
  {
   "zh": "魔天童子（美）",
   "ja": "魔天童子（米）",
-  "id": 215,
+  "id": 217,
   "name": "Conquest of the Crystal Palace (USA)",
   "dir": "Matendouji (Japan)"
  },
@@ -1590,20 +1605,20 @@
   "zh": "合金装备（美）",
   "zh-hint": "hejinzhuangbei(mei)",
   "ja": "メタルギア（米）",
-  "id": 216,
+  "id": 218,
   "name": "Metal Gear (USA)"
  },
  {
   "zh": "重装机兵（日）",
   "zh-hint": "zhongzhuangjibing(ri)",
   "ja": "メタルマックス（日）",
-  "id": 217,
+  "id": 219,
   "name": "Metal Max (Japan)"
  },
  {
   "zh": "重装机兵（中）",
   "ja": "メタルマックス（中）",
-  "id": 218,
+  "id": 220,
   "name": "Metal Max (CN)",
   "dir": "Metal Max (Japan)"
  },
@@ -1611,14 +1626,14 @@
   "zh": "银河战士（美）",
   "zh-hint": "yinhezhanshi(mei)",
   "ja": "メトロイド（米）",
-  "id": 219,
+  "id": 221,
   "name": "Metroid (USA)"
  },
  {
   "zh": "快打旋风（美）",
   "zh-hint": "kuaidaxuanfeng(mei)",
   "ja": "マイティファイナルファイト（米）",
-  "id": 220,
+  "id": 222,
   "name": "Mighty Final Fight (USA)"
  },
  {
@@ -1626,14 +1641,14 @@
   "zh-hint": "migongzuqu(mei)",
   "ja": "迷宮組曲 - ミロンの大冒険（米）",
   "ja-hint": "めいきゅうくみきょく - ミロンのだいぼうけん（べい）",
-  "id": 221,
+  "id": 223,
   "name": "Milon's Secret Castle (USA)"
  },
  {
   "zh": "碟中谍（美）",
   "zh-hint": "diezhongdie(mei)",
   "ja": "ミッション:インポッシブル（米）",
-  "id": 222,
+  "id": 224,
   "name": "Mission Impossible (USA)"
  },
  {
@@ -1641,7 +1656,7 @@
   "zh-hint": "sanmutongzi(ri)",
   "ja": "三つ目がとおる（日）",
   "ja-hint": "みつめがとおる（にち）",
-  "id": 223,
+  "id": 225,
   "name": "Mitsume ga Tooru (Japan)"
  },
  {
@@ -1649,20 +1664,20 @@
   "zh-hint": "rexuegedouchuanshuo(ri)",
   "ja": "熱血格闘伝説（日）",
   "ja-hint": "ねっけつかくとうでんせつ（にち）",
-  "id": 224,
+  "id": 226,
   "name": "Nekketsu Kakutou Densetsu (Japan)"
  },
  {
   "zh": "热血格斗传说（中）",
   "ja": "熱血格闘伝説（中）",
-  "id": 225,
+  "id": 227,
   "name": "Nekketsu Kakutou Densetsu (CN)",
   "dir": "Nekketsu Kakutou Densetsu (Japan)"
  },
  {
   "zh": "热血格斗传说（日英）",
   "ja": "熱血格闘伝説（日英）",
-  "id": 226,
+  "id": 228,
   "name": "Nekketsu Kakutou Densetsu (Riki Kunio) (J) [T-Eng0.95]",
   "dir": "Nekketsu Kakutou Densetsu (Japan)"
  },
@@ -1671,7 +1686,7 @@
   "zh-hint": "rexuegaoxiaoduobiqiubu(ri)",
   "ja": "熱血高校ドッジボール部（日）",
   "ja-hint": "ねっけつこうこうドッジボールぶ（にち）",
-  "id": 227,
+  "id": 229,
   "name": "Nekketsu Koukou Dodgeball-bu (Japan)"
  },
  {
@@ -1679,13 +1694,13 @@
   "zh-hint": "renzhelongjianzhuan(ri)",
   "ja": "忍者龍剣伝（日）",
   "ja-hint": "にんじゃりゅうけんでん（にち）",
-  "id": 228,
+  "id": 230,
   "name": "Ninja Ryuuken Den (Japan)"
  },
  {
   "zh": "忍者龙剑传（美）",
   "ja": "忍者龍剣伝（米）",
-  "id": 229,
+  "id": 231,
   "name": "Ninja Gaiden (USA)",
   "dir": "Ninja Ryuuken Den (Japan)"
  },
@@ -1694,13 +1709,13 @@
   "zh-hint": "renzhelongjianzhuan2 - anheidexieshenjian(ri)",
   "ja": "忍者龍剣伝2 - 暗黒の邪神剣（日）",
   "ja-hint": "にんじゃりゅうけんでん2 - あんこくのじゃしんけん（にち）",
-  "id": 230,
+  "id": 232,
   "name": "Ninja Ryuuken Den II - Ankoku no Jashin Ken (Japan)"
  },
  {
   "zh": "忍者龙剑传2 - 暗黑的邪神剑（美）",
   "ja": "忍者龍剣伝2 - 暗黒の邪神剣（米）",
-  "id": 231,
+  "id": 233,
   "name": "Ninja Gaiden II - The Dark Sword of Chaos (USA)",
   "dir": "Ninja Ryuuken Den II - Ankoku no Jashin Ken (Japan)"
  },
@@ -1709,13 +1724,13 @@
   "zh-hint": "renzhelongjianzhuan3 - huangquandefangzhou(ri)",
   "ja": "忍者龍剣伝3 - 黄泉の方舟（日）",
   "ja-hint": "にんじゃりゅうけんでん3 - よみのはこぶね（にち）",
-  "id": 232,
+  "id": 234,
   "name": "Ninja Ryuuken Den III - Yomi no Hakobune (Japan)"
  },
  {
   "zh": "忍者龙剑传3 - 黄泉的方舟（美）",
   "ja": "忍者龍剣伝3 - 黄泉の方舟（米）",
-  "id": 233,
+  "id": 235,
   "name": "Ninja Gaiden III - The Ancient Ship of Doom (USA)",
   "dir": "Ninja Ryuuken Den III - Yomi no Hakobune (Japan)"
  },
@@ -1723,62 +1738,62 @@
   "zh": "爱的小屋（日）",
   "zh-hint": "aidexiaowu(ri)",
   "ja": "ナッツ & ミルク（日）",
-  "id": 234,
+  "id": 236,
   "name": "Nuts & Milk (Japan)"
  },
  {
   "zh": "吃豆人（美）",
   "zh-hint": "chidouren(mei)",
   "ja": "パックマン（米）",
-  "id": 235,
+  "id": 237,
   "name": "Pac-Man (USA) (Namco)"
  },
  {
   "zh": "弹珠台",
   "zh-hint": "danzhutai",
   "ja": "ピンボール",
-  "id": 236,
+  "id": 238,
   "name": "Pinball (World)"
  },
  {
   "zh": "猪小弟（日）",
   "zh-hint": "zhuxiaodi(ri)",
   "ja": "プーヤン（日）",
-  "id": 237,
+  "id": 239,
   "name": "Pooyan (Japan)"
  },
  {
   "zh": "能源战士（美）",
   "zh-hint": "nengyuanzhanshi(mei)",
   "ja": "パワーブレイド（米）",
-  "id": 238,
+  "id": 240,
   "name": "Power Blade (USA)"
  },
  {
   "zh": "射击方块（日）",
   "zh-hint": "shejifangkuai(ri)",
   "ja": "クォース（日）",
-  "id": 239,
+  "id": 241,
   "name": "Quarth (Japan)"
  },
  {
   "zh": "Raf世界（日）",
   "zh-hint": "Rafshijie(ri)",
   "ja": "ラフワールド（日）",
-  "id": 240,
+  "id": 242,
   "name": "Raf World (Japan)"
  },
  {
   "zh": "拉力摩托（美）",
   "zh-hint": "lalimotuo(mei)",
   "ja": "ラリーバイク（米）",
-  "id": 241,
+  "id": 243,
   "name": "Rally Bike (USA)"
  },
  {
   "zh": "冲刺野朗（日）",
   "ja": "ダッシュ野郎（日）",
-  "id": 242,
+  "id": 244,
   "name": "Dash Yarou (Japan)",
   "dir": "Rally Bike (USA)"
  },
@@ -1786,7 +1801,7 @@
   "zh": "火箭车（日）",
   "zh-hint": "huojianche(ri)",
   "ja": "ロードファイター（日）",
-  "id": 243,
+  "id": 245,
   "name": "Road Fighter (Japan)"
  },
  {
@@ -1794,13 +1809,13 @@
   "zh-hint": "luokeren1(ri)",
   "ja": "ロックマン（日）",
   "ja-hint": "ロックマン1（にち）",
-  "id": 244,
+  "id": 246,
   "name": "Rockman (Japan) (En)"
  },
  {
   "zh": "洛克人（美）",
   "ja": "ロックマン（米）",
-  "id": 245,
+  "id": 247,
   "name": "Mega Man (USA)",
   "dir": "Rockman (Japan) (En)"
  },
@@ -1809,13 +1824,13 @@
   "zh-hint": "luokeren2 - weiliboshizhimi(ri)",
   "ja": "ロックマン2 - Dr.ワイリーの謎（日）",
   "ja-hint": "ロックマン2 - Dr.ワイリーのなぞ（にち）",
-  "id": 246,
+  "id": 248,
   "name": "Rockman 2 - Dr. Wily no Nazo (Japan)"
  },
  {
   "zh": "洛克人2 - 威利博士之谜（美）",
   "ja": "ロックマン2 - Dr.ワイリーの謎（米）",
-  "id": 247,
+  "id": 249,
   "name": "Mega Man 2 (USA)",
   "dir": "Rockman 2 - Dr. Wily no Nazo (Japan)"
  },
@@ -1824,13 +1839,13 @@
   "zh-hint": "luokeren3 - weiliboshidemoqi!?(ri)",
   "ja": "ロックマン3 - Dr.ワイリーの最後!?（日）",
   "ja-hint": "ロックマン3 - Dr.ワイリーのさいご!?（にち）",
-  "id": 248,
+  "id": 250,
   "name": "Rockman 3 - Dr. Wily no Saigo! (Japan)"
  },
  {
   "zh": "洛克人3 - 威利博士的末期!?（美）",
   "ja": "ロックマン3 - Dr.ワイリーの最後!?（米）",
-  "id": 249,
+  "id": 251,
   "name": "Mega Man 3 (USA)",
   "dir": "Rockman 3 - Dr. Wily no Saigo! (Japan)"
  },
@@ -1839,13 +1854,13 @@
   "zh-hint": "luokeren4 - xindeyexin!!(ri)",
   "ja": "ロックマン4 - 新たなる野望!!（日）",
   "ja-hint": "ロックマン4 - あらたなるやぼう（にち）",
-  "id": 250,
+  "id": 252,
   "name": "Rockman 4 - Aratanaru Yabou!! (Japan)"
  },
  {
   "zh": "洛克人4 - 新的野心!!（美）",
   "ja": "ロックマン4 - 新たなる野望!!（米）",
-  "id": 251,
+  "id": 253,
   "name": "Mega Man 4 (USA)",
   "dir": "Rockman 4 - Aratanaru Yabou!! (Japan)"
  },
@@ -1854,13 +1869,13 @@
   "zh-hint": "luokeren5 - bulusidexianjin!?(ri)",
   "ja": "ロックマン5 - ブルースの罠!?（日）",
   "ja-hint": "ロックマン5 - ブルースのわな（にち）",
-  "id": 252,
+  "id": 254,
   "name": "Rockman 5 - Blues no Wana! (Japan)"
  },
  {
   "zh": "洛克人5 - 布鲁斯的陷阱!?（美）",
   "ja": "ロックマン5 - ブルースの罠!?（米）",
-  "id": 253,
+  "id": 255,
   "name": "Mega Man 5 (USA)",
   "dir": "Rockman 5 - Blues no Wana! (Japan)"
  },
@@ -1869,13 +1884,13 @@
   "zh-hint": "luokeren6 - shishangzuidazhanzheng!!(ri)",
   "ja": "ロックマン6 - 史上最大の戦い!!（日）",
   "ja-hint": "ロックマン6 - しじょうさいだいのたたかい（にち）",
-  "id": 254,
+  "id": 256,
   "name": "Rockman 6 - Shijou Saidai no Tatakai!! (Japan)"
  },
  {
   "zh": "洛克人6 - 史上最大战争!!（美）",
   "ja": "ロックマン6 - 史上最大の戦い!!（米）",
-  "id": 255,
+  "id": 257,
   "name": "Mega Man 6 (USA)",
   "dir": "Rockman 6 - Shijou Saidai no Tatakai!! (Japan)"
  },
@@ -1884,7 +1899,7 @@
   "zh-hint": "xiyoujishijie(ri)",
   "ja": "西遊記世界（日）",
   "ja-hint": "さいゆうきせかい（にち）",
-  "id": 256,
+  "id": 258,
   "name": "Saiyuuki World (Japan)"
  },
  {
@@ -1892,7 +1907,7 @@
   "zh-hint": "shenglingchuanshuo(ri)",
   "ja": "聖鈴伝説 リックル（日）",
   "ja-hint": "せいれいでんせつ リックル（にち）",
-  "id": 257,
+  "id": 259,
   "name": "Seirei Densetsu Lickle (Japan)"
  },
  {
@@ -1900,7 +1915,7 @@
   "zh-hint": "chiyingzhanshi(mei)",
   "ja": "闇の仕事人 KAGE（米）",
   "ja-hint": "やみのしごとにん KAGE（べい）",
-  "id": 258,
+  "id": 260,
   "name": "Shadow of the Ninja (USA)"
  },
  {
@@ -1908,21 +1923,21 @@
   "zh-hint": "xinrenlei(ri)",
   "ja": "新人類（日）",
   "ja-hint": "しんじんるい（日）",
-  "id": 259,
+  "id": 261,
   "name": "Shin Jinrui - The New Type (Japan)"
  },
  {
   "zh": "红巾特工队（日）",
   "zh-hint": "hongjintegongdui(ri)",
   "ja": "スカイデストロイヤー（日）",
-  "id": 260,
+  "id": 262,
   "name": "Sky Destroyer (Japan)"
  },
  {
   "zh": "雪人兄弟（美）",
   "zh-hint": "xuerenxiongdi(mei)",
   "ja": "スノーブラザーズ（米）",
-  "id": 261,
+  "id": 263,
   "name": "Snow Brothers (USA)"
  },
  {
@@ -1930,7 +1945,7 @@
   "zh-hint": "suoluomenzhishi(mei)",
   "ja": "ソロモンの鍵（米）",
   "ja-hint": "ソロモンのかぎ（べい）",
-  "id": 262,
+  "id": 264,
   "name": "Solomon's Key (USA)"
  },
  {
@@ -1938,21 +1953,21 @@
   "zh-hint": "mochengqibing - sanciyuanmigongdekuangshou(mei)",
   "ja": "ソルスティス - 三次元迷宮の狂獣（米）",
   "ja-hint": "ソルスティス - さんじげんめいきゅうのきょうじゅう（べい）",
-  "id": 263,
+  "id": 265,
   "name": "Solstice - The Quest for the Staff of Demnos (USA)"
  },
  {
   "zh": "星际战士（日）",
   "zh-hint": "xingjizhanshi(ri)",
   "ja": "スターソルジャー（日）",
-  "id": 264,
+  "id": 266,
   "name": "Star Soldier (Japan)"
  },
  {
   "zh": "热带之星（美）",
   "zh-hint": "redaizhixing(mei)",
   "ja": "スタートロピックス（米）",
-  "id": 265,
+  "id": 267,
   "name": "StarTropics (USA)"
  },
  {
@@ -1960,48 +1975,48 @@
   "zh-hint": "chaojihundouluo(mei)",
   "ja": "スーパー魂斗羅 エイリアンの逆襲（米）",
   "ja-hint": "スーパーコントラ エイリアンのぎゃくしゅう（べい）",
-  "id": 266,
+  "id": 268,
   "name": "Super C (USA)"
  },
  {
   "zh": "超级马里奥兄弟",
   "zh-hint": "chaojimaliaoxiongdi",
   "ja": "スーパーマリオブラザーズ",
-  "id": 267,
+  "id": 269,
   "name": "Super Mario Bros. (World)"
  },
  {
   "zh": "超级马里奥兄弟2（美）",
   "zh-hint": "chaojimaliaoxiongdi2(mei)",
   "ja": "スーパーマリオブラザーズ2（米）",
-  "id": 268,
+  "id": 270,
   "name": "Super Mario Bros. 2 (USA)"
  },
  {
   "zh": "超级马里奥兄弟2（日）",
   "zh-hint": "chaojimaliaoxiongdi2(ri)",
   "ja": "スーパーマリオブラザーズ2（日）",
-  "id": 269,
+  "id": 271,
   "name": "Super Mario Bros. 2 The Lost Levels (J)"
  },
  {
   "zh": "超级马里奥兄弟3（美）",
   "zh-hint": "chaojimaliaoxiongdi3(mei)",
   "ja": "スーパーマリオブラザーズ3（米）",
-  "id": 270,
+  "id": 272,
   "name": "Super Mario Bros. 3 (USA)"
  },
  {
   "zh": "甜蜜之家（日英）",
   "zh-hint": "tianmizhijia(riying)",
   "ja": "スウィートホーム（日英）",
-  "id": 271,
+  "id": 273,
   "name": "Sweet Home (Eng)"
  },
  {
   "zh": "甜蜜之家（日）",
   "ja": "スウィートホーム（日）",
-  "id": 272,
+  "id": 274,
   "name": "Sweet Home (Japan)",
   "dir": "Sweet Home (Eng)"
  },
@@ -2010,7 +2025,7 @@
   "zh-hint": "maoxiandao(ri)",
   "ja": "高橋名人の冒険島（日）",
   "ja-hint": "たかはしめいじんのぼうけんじま（にち）",
-  "id": 273,
+  "id": 275,
   "name": "Takahashi Meijin no Bouken Jima (Japan)"
  },
  {
@@ -2018,13 +2033,13 @@
   "zh-hint": "maoxiandao2(ri)",
   "ja": "高橋名人の冒険島2（日）",
   "ja-hint": "たかはしめいじんのぼうけんじま2（にち）",
-  "id": 274,
+  "id": 276,
   "name": "Takahashi Meijin no Bouken Jima II (Japan)"
  },
  {
   "zh": "冒险岛2（美）",
   "ja": "高橋名人の冒険島2（米）",
-  "id": 275,
+  "id": 277,
   "name": "Adventure Island II (USA)",
   "dir": "Takahashi Meijin no Bouken Jima II (Japan)"
  },
@@ -2033,13 +2048,13 @@
   "zh-hint": "maoxiandao3(ri)",
   "ja": "高橋名人の冒険島3（日）",
   "ja-hint": "たかはしめいじんのぼうけんじま3（にち）",
-  "id": 276,
+  "id": 278,
   "name": "Takahashi Meijin no Bouken Jima III (Japan)"
  },
  {
   "zh": "冒险岛3（美）",
   "ja": "高橋名人の冒険島3（米）",
-  "id": 277,
+  "id": 279,
   "name": "Adventure Island III (USA)",
   "dir": "Takahashi Meijin no Bouken Jima III (Japan)"
  },
@@ -2047,28 +2062,28 @@
   "zh": "忍者神龟（美）",
   "zh-hint": "renzheshengui(mei)",
   "ja": "ティーンエイジ・ミュータント・ニンジャ・タートルズ（米）",
-  "id": 278,
+  "id": 280,
   "name": "Teenage Mutant Ninja Turtles (USA)"
  },
  {
   "zh": "激龟快打（美）",
   "zh-hint": "jiguikuaida(mei)",
   "ja": "Teenage Mutant Ninja Turtles - Tournament Fighters（米）",
-  "id": 279,
+  "id": 281,
   "name": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA)"
  },
  {
   "zh": "忍者神龟2（美）",
   "zh-hint": "renzheshengui2(mei)",
   "ja": "ティーンエイジ・ミュータント・ニンジャ・タートルズ2（米）",
-  "id": 280,
+  "id": 282,
   "name": "Teenage Mutant Ninja Turtles II - The Arcade Game (USA)"
  },
  {
   "zh": "忍者神龟3（美）",
   "zh-hint": "renzheshengui3(mei)",
   "ja": "ティーンエイジ・ミュータント・ニンジャ・タートルズ3（米）",
-  "id": 281,
+  "id": 283,
   "name": "Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)"
  },
  {
@@ -2076,20 +2091,20 @@
   "zh-hint": "tunshitiandi(ri)",
   "ja": "天地を喰らう（日）",
   "ja-hint": "てんちをくらう（にち）",
-  "id": 282,
+  "id": 284,
   "name": "Tenchi wo Kurau (Japan)"
  },
  {
   "zh": "吞食天地（中）",
   "ja": "天地を喰らう（中）",
-  "id": 283,
+  "id": 285,
   "name": "Tenchi wo Kurau (CN)",
   "dir": "Tenchi wo Kurau (Japan)"
  },
  {
   "zh": "吞食天地（美）",
   "ja": "天地を喰らう（米）",
-  "id": 284,
+  "id": 286,
   "name": "Destiny of an Emperor (USA)",
   "dir": "Tenchi wo Kurau (Japan)"
  },
@@ -2098,70 +2113,70 @@
   "zh-hint": "tunshitiandi2 - zhugekongmingzhuan(ri)",
   "ja": "天地を喰らう2 - 諸葛孔明伝（日）",
   "ja-hint": "てんちをくらう2 - しょかつこうめいでん（にち）",
-  "id": 285,
+  "id": 287,
   "name": "Tenchi wo Kurau II - Shokatsu Koumei Den (Japan)"
  },
  {
   "zh": "俄罗斯方块（美）",
   "zh-hint": "eluosifangkuai(mei)",
   "ja": "テトリス（米）",
-  "id": 286,
+  "id": 288,
   "name": "Tetris (USA)"
  },
  {
   "zh": "俄罗斯方块2（美）",
   "zh-hint": "eluosifangkuai2(mei)",
   "ja": "テトリス2（米）",
-  "id": 287,
+  "id": 289,
   "name": "Tetris 2 (USA)"
  },
  {
   "zh": "俄罗斯方块（Tengen）",
   "zh-hint": "eluosifangkuai(tengen)",
   "ja": "テトリス（Tengen）",
-  "id": 288,
+  "id": 290,
   "name": "Tetris The Soviet Mind Game"
  },
  {
   "zh": "实验人冒险（美）",
   "zh-hint": "shiyanrenmaoxian(mei)",
   "ja": "クラッシュ・ダミー（米）",
-  "id": 289,
+  "id": 291,
   "name": "The Incredible Crash Dummies (USA)"
  },
  {
   "zh": "时间领主（美）",
   "zh-hint": "shijianlingzhu(mei)",
   "ja": "タイム ロード（米）",
-  "id": 290,
+  "id": 292,
   "name": "Time Lord (USA)"
  },
  {
   "zh": "兔宝宝（美）",
   "zh-hint": "tubaobao(mei)",
   "ja": "タイニー・トゥーン アドベンチャーズ（米）",
-  "id": 291,
+  "id": 293,
   "name": "Tiny Toon Adventures (USA)"
  },
  {
   "zh": "兔宝宝2（美）",
   "zh-hint": "tubaobao2(mei)",
   "ja": "タイニー・トゥーン アドベンチャーズ2（米）",
-  "id": 292,
+  "id": 294,
   "name": "Tiny Toon Adventures 2 - Trouble in Wackyland (USA)"
  },
  {
   "zh": "冰蜂（日）",
   "zh-hint": "bingfeng(ri)",
   "ja": "ツインビー（日）",
-  "id": 293,
+  "id": 295,
   "name": "TwinBee (Japan)"
  },
  {
   "zh": "功夫（日）",
   "zh-hint": "gongfu(ri)",
   "ja": "イー・アル・カンフー（日）",
-  "id": 294,
+  "id": 296,
   "name": "Yie Ar Kung-Fu (Japan) (Rev 1.4)"
  },
  {
@@ -2169,51 +2184,51 @@
   "zh-hint": "linkedemaoxian(mei)",
   "ja": "ゼルダ2 - リンクの冒険（米）",
   "ja-hint": "ゼルダ2 - リンクのぼうけん（べい）",
-  "id": 295,
+  "id": 297,
   "name": "Zelda II - The Adventure of Link (USA)"
  },
  {
-  "id": 296,
+  "id": 298,
   "name": "Extra Mario Bros",
   "dir": "specials/Extra Mario Bros"
  },
  {
-  "id": 297,
+  "id": 299,
   "name": "Funny Princess",
   "dir": "specials/Funny Princess"
  },
  {
-  "id": 298,
+  "id": 300,
   "name": "Kamikaze V3",
   "dir": "specials/Kamikaze V3"
  },
  {
-  "id": 299,
+  "id": 301,
   "name": "Luigi's Chronicles",
   "dir": "specials/Luigi's Chronicles"
  },
  {
-  "id": 300,
+  "id": 302,
   "name": "Special Mario",
   "dir": "specials/Special Mario"
  },
  {
-  "id": 301,
+  "id": 303,
   "name": "Super Mario Bros Unlimited. (W)",
   "dir": "specials/Super Mario Bros Unlimited. (W)"
  },
  {
-  "id": 302,
+  "id": 304,
   "name": "Super Mario Bros. Zero",
   "dir": "specials/Super Mario Bros. Zero"
  },
  {
-  "id": 303,
+  "id": 305,
   "name": "Super Mario Bros. Zero 2",
   "dir": "specials/Super Mario Bros. Zero 2"
  },
  {
-  "id": 304,
+  "id": 306,
   "name": "Tank 1990",
   "dir": "specials/Tank 1990"
  }
